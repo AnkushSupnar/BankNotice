@@ -1,0 +1,5418 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://www.nagebabamultistate.in/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+    <title>Sant Nagebaba Multistate</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap-grid.css">
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap-grid.min.css">
+
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap-reboot.css">
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap-reboot.min.css">
+<link rel="stylesheet" href="./lastpage_files/bootstrap.min(1).css">
+<script src="./lastpage_files/jquery.min.js.download"></script>
+
+<script src="./lastpage_files/bootstrap.min.js.download"></script>
+<link rel="stylesheet" href="./lastpage_files/slick.css">
+<link rel="stylesheet" href="./lastpage_files/font-awesome.min.css">
+<link rel="stylesheet" href="./lastpage_files/animate.css">
+<link rel="stylesheet" href="./lastpage_files/aos.css">
+<link rel="stylesheet" href="./lastpage_files/venobox.css">
+<script src="./lastpage_files/Chart.bundle.js.download"></script><style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style>
+<link href="./lastpage_files/aos(1).css" rel="stylesheet">
+
+<!-- Main Stylesheet -->
+<link href="./lastpage_files/style.css" rel="stylesheet">
+
+<!--Favicon-->
+<link rel="shortcut icon" href="./lastpage_files/logo.png" type="image/x-icon">
+<link rel="icon" href="./lastpage_files/logo.png" type="image/x-icon">
+<link rel="stylesheet" href="./lastpage_files/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<link rel="stylesheet" href="./lastpage_files/sweetalert2.css">
+<link href="./lastpage_files/css" rel="stylesheet">
+    <link rel="stylesheet" href="./lastpage_files/baguetteBox.min.css">
+    
+<script src="./lastpage_files/sweetalert2.all.min.js.download"></script><style type="text/css">body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch; }
+  body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast .swal2-actions {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -ms-flex-item-align: stretch;
+        align-self: stretch;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    height: 2.2em; }
+  body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast .swal2-loading {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast .swal2-input {
+    height: 2em;
+    margin: .3125em auto;
+    font-size: 1em; }
+  body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast .swal2-validationerror {
+    font-size: 1em; }
+
+body.swal2-toast-shown > .swal2-container {
+  position: fixed;
+  background-color: transparent; }
+  body.swal2-toast-shown > .swal2-container.swal2-shown {
+    background-color: transparent; }
+  body.swal2-toast-shown > .swal2-container.swal2-top {
+    top: 0;
+    right: auto;
+    bottom: auto;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-top-end, body.swal2-toast-shown > .swal2-container.swal2-top-right {
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto; }
+  body.swal2-toast-shown > .swal2-container.swal2-top-start, body.swal2-toast-shown > .swal2-container.swal2-top-left {
+    top: 0;
+    right: auto;
+    bottom: auto;
+    left: 0; }
+  body.swal2-toast-shown > .swal2-container.swal2-center-start, body.swal2-toast-shown > .swal2-container.swal2-center-left {
+    top: 50%;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-center {
+    top: 50%;
+    right: auto;
+    bottom: auto;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-center-end, body.swal2-toast-shown > .swal2-container.swal2-center-right {
+    top: 50%;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-bottom-start, body.swal2-toast-shown > .swal2-container.swal2-bottom-left {
+    top: auto;
+    right: auto;
+    bottom: 0;
+    left: 0; }
+  body.swal2-toast-shown > .swal2-container.swal2-bottom {
+    top: auto;
+    right: auto;
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-bottom-end, body.swal2-toast-shown > .swal2-container.swal2-bottom-right {
+    top: auto;
+    right: 0;
+    bottom: 0;
+    left: auto; }
+
+.swal2-popup.swal2-toast {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: auto;
+  padding: 0.625em;
+  -webkit-box-shadow: 0 0 10px #d9d9d9;
+          box-shadow: 0 0 10px #d9d9d9;
+  overflow-y: hidden; }
+  .swal2-popup.swal2-toast .swal2-header {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row; }
+  .swal2-popup.swal2-toast .swal2-title {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    margin: 0 .6em;
+    font-size: 1em; }
+  .swal2-popup.swal2-toast .swal2-close {
+    position: initial; }
+  .swal2-popup.swal2-toast .swal2-content {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    font-size: 1em; }
+  .swal2-popup.swal2-toast .swal2-icon {
+    width: 32px;
+    min-width: 32px;
+    height: 32px;
+    margin: 0; }
+    .swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring {
+      width: 32px;
+      height: 32px; }
+    .swal2-popup.swal2-toast .swal2-icon.swal2-info, .swal2-popup.swal2-toast .swal2-icon.swal2-warning, .swal2-popup.swal2-toast .swal2-icon.swal2-question {
+      font-size: 26px;
+      line-height: 32px; }
+    .swal2-popup.swal2-toast .swal2-icon.swal2-error [class^='swal2-x-mark-line'] {
+      top: 14px;
+      width: 22px; }
+      .swal2-popup.swal2-toast .swal2-icon.swal2-error [class^='swal2-x-mark-line'][class$='left'] {
+        left: 5px; }
+      .swal2-popup.swal2-toast .swal2-icon.swal2-error [class^='swal2-x-mark-line'][class$='right'] {
+        right: 5px; }
+  .swal2-popup.swal2-toast .swal2-actions {
+    height: auto;
+    margin: 0 .3125em; }
+  .swal2-popup.swal2-toast .swal2-styled {
+    margin: 0 .3125em;
+    padding: .3125em .625em;
+    font-size: 1em; }
+    .swal2-popup.swal2-toast .swal2-styled:focus {
+      -webkit-box-shadow: 0 0 0 1px #fff, 0 0 0 2px rgba(50, 100, 150, 0.4);
+              box-shadow: 0 0 0 1px #fff, 0 0 0 2px rgba(50, 100, 150, 0.4); }
+  .swal2-popup.swal2-toast .swal2-success {
+    border-color: #a5dc86; }
+    .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-circular-line'] {
+      position: absolute;
+      width: 32px;
+      height: 45px;
+      -webkit-transform: rotate(45deg);
+              transform: rotate(45deg);
+      border-radius: 50%; }
+      .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-circular-line'][class$='left'] {
+        top: -4px;
+        left: -15px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg);
+        -webkit-transform-origin: 32px 32px;
+                transform-origin: 32px 32px;
+        border-radius: 64px 0 0 64px; }
+      .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-circular-line'][class$='right'] {
+        top: -4px;
+        left: 15px;
+        -webkit-transform-origin: 0 32px;
+                transform-origin: 0 32px;
+        border-radius: 0 64px 64px 0; }
+    .swal2-popup.swal2-toast .swal2-success .swal2-success-ring {
+      width: 32px;
+      height: 32px; }
+    .swal2-popup.swal2-toast .swal2-success .swal2-success-fix {
+      top: 0;
+      left: 7px;
+      width: 7px;
+      height: 43px; }
+    .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-line'] {
+      height: 5px; }
+      .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-line'][class$='tip'] {
+        top: 18px;
+        left: 3px;
+        width: 12px; }
+      .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-line'][class$='long'] {
+        top: 15px;
+        right: 3px;
+        width: 22px; }
+  .swal2-popup.swal2-toast.swal2-show {
+    -webkit-animation: showSweetToast .5s;
+            animation: showSweetToast .5s; }
+  .swal2-popup.swal2-toast.swal2-hide {
+    -webkit-animation: hideSweetToast .2s forwards;
+            animation: hideSweetToast .2s forwards; }
+  .swal2-popup.swal2-toast .swal2-animate-success-line-tip {
+    -webkit-animation: animate-toast-success-tip .75s;
+            animation: animate-toast-success-tip .75s; }
+  .swal2-popup.swal2-toast .swal2-animate-success-line-long {
+    -webkit-animation: animate-toast-success-long .75s;
+            animation: animate-toast-success-long .75s; }
+
+@-webkit-keyframes showSweetToast {
+  0% {
+    -webkit-transform: translateY(-10px) rotateZ(2deg);
+            transform: translateY(-10px) rotateZ(2deg);
+    opacity: 0; }
+  33% {
+    -webkit-transform: translateY(0) rotateZ(-2deg);
+            transform: translateY(0) rotateZ(-2deg);
+    opacity: .5; }
+  66% {
+    -webkit-transform: translateY(5px) rotateZ(2deg);
+            transform: translateY(5px) rotateZ(2deg);
+    opacity: .7; }
+  100% {
+    -webkit-transform: translateY(0) rotateZ(0);
+            transform: translateY(0) rotateZ(0);
+    opacity: 1; } }
+
+@keyframes showSweetToast {
+  0% {
+    -webkit-transform: translateY(-10px) rotateZ(2deg);
+            transform: translateY(-10px) rotateZ(2deg);
+    opacity: 0; }
+  33% {
+    -webkit-transform: translateY(0) rotateZ(-2deg);
+            transform: translateY(0) rotateZ(-2deg);
+    opacity: .5; }
+  66% {
+    -webkit-transform: translateY(5px) rotateZ(2deg);
+            transform: translateY(5px) rotateZ(2deg);
+    opacity: .7; }
+  100% {
+    -webkit-transform: translateY(0) rotateZ(0);
+            transform: translateY(0) rotateZ(0);
+    opacity: 1; } }
+
+@-webkit-keyframes hideSweetToast {
+  0% {
+    opacity: 1; }
+  33% {
+    opacity: .5; }
+  100% {
+    -webkit-transform: rotateZ(1deg);
+            transform: rotateZ(1deg);
+    opacity: 0; } }
+
+@keyframes hideSweetToast {
+  0% {
+    opacity: 1; }
+  33% {
+    opacity: .5; }
+  100% {
+    -webkit-transform: rotateZ(1deg);
+            transform: rotateZ(1deg);
+    opacity: 0; } }
+
+@-webkit-keyframes animate-toast-success-tip {
+  0% {
+    top: 9px;
+    left: 1px;
+    width: 0; }
+  54% {
+    top: 2px;
+    left: 2px;
+    width: 0; }
+  70% {
+    top: 10px;
+    left: -4px;
+    width: 26px; }
+  84% {
+    top: 17px;
+    left: 12px;
+    width: 8px; }
+  100% {
+    top: 18px;
+    left: 3px;
+    width: 12px; } }
+
+@keyframes animate-toast-success-tip {
+  0% {
+    top: 9px;
+    left: 1px;
+    width: 0; }
+  54% {
+    top: 2px;
+    left: 2px;
+    width: 0; }
+  70% {
+    top: 10px;
+    left: -4px;
+    width: 26px; }
+  84% {
+    top: 17px;
+    left: 12px;
+    width: 8px; }
+  100% {
+    top: 18px;
+    left: 3px;
+    width: 12px; } }
+
+@-webkit-keyframes animate-toast-success-long {
+  0% {
+    top: 26px;
+    right: 22px;
+    width: 0; }
+  65% {
+    top: 20px;
+    right: 15px;
+    width: 0; }
+  84% {
+    top: 15px;
+    right: 0;
+    width: 18px; }
+  100% {
+    top: 15px;
+    right: 3px;
+    width: 22px; } }
+
+@keyframes animate-toast-success-long {
+  0% {
+    top: 26px;
+    right: 22px;
+    width: 0; }
+  65% {
+    top: 20px;
+    right: 15px;
+    width: 0; }
+  84% {
+    top: 15px;
+    right: 0;
+    width: 18px; }
+  100% {
+    top: 15px;
+    right: 3px;
+    width: 22px; } }
+
+html.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown),
+body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) {
+  height: auto;
+  overflow-y: hidden; }
+
+body.swal2-iosfix {
+  position: fixed;
+  right: 0;
+  left: 0; }
+
+body.swal2-no-backdrop .swal2-shown {
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  background-color: transparent; }
+  body.swal2-no-backdrop .swal2-shown > .swal2-modal {
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); }
+  body.swal2-no-backdrop .swal2-shown.swal2-top {
+    top: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-top-start, body.swal2-no-backdrop .swal2-shown.swal2-top-left {
+    top: 0;
+    left: 0; }
+  body.swal2-no-backdrop .swal2-shown.swal2-top-end, body.swal2-no-backdrop .swal2-shown.swal2-top-right {
+    top: 0;
+    right: 0; }
+  body.swal2-no-backdrop .swal2-shown.swal2-center {
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-center-start, body.swal2-no-backdrop .swal2-shown.swal2-center-left {
+    top: 50%;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-center-end, body.swal2-no-backdrop .swal2-shown.swal2-center-right {
+    top: 50%;
+    right: 0;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-bottom {
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-bottom-start, body.swal2-no-backdrop .swal2-shown.swal2-bottom-left {
+    bottom: 0;
+    left: 0; }
+  body.swal2-no-backdrop .swal2-shown.swal2-bottom-end, body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
+    right: 0;
+    bottom: 0; }
+
+.swal2-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 10px;
+  background-color: transparent;
+  z-index: 1060;
+  overflow-x: hidden; }
+  .swal2-container.swal2-top {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start; }
+  .swal2-container.swal2-top-start, .swal2-container.swal2-top-left {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start; }
+  .swal2-container.swal2-top-end, .swal2-container.swal2-top-right {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end; }
+  .swal2-container.swal2-center {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .swal2-container.swal2-center-start, .swal2-container.swal2-center-left {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start; }
+  .swal2-container.swal2-center-end, .swal2-container.swal2-center-right {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end; }
+  .swal2-container.swal2-bottom {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end; }
+  .swal2-container.swal2-bottom-start, .swal2-container.swal2-bottom-left {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start; }
+  .swal2-container.swal2-bottom-end, .swal2-container.swal2-bottom-right {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end; }
+  .swal2-container.swal2-grow-fullscreen > .swal2-modal {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -ms-flex-item-align: stretch;
+        align-self: stretch;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  .swal2-container.swal2-grow-row > .swal2-modal {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  .swal2-container.swal2-grow-column {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+    .swal2-container.swal2-grow-column.swal2-top, .swal2-container.swal2-grow-column.swal2-center, .swal2-container.swal2-grow-column.swal2-bottom {
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center; }
+    .swal2-container.swal2-grow-column.swal2-top-start, .swal2-container.swal2-grow-column.swal2-center-start, .swal2-container.swal2-grow-column.swal2-bottom-start, .swal2-container.swal2-grow-column.swal2-top-left, .swal2-container.swal2-grow-column.swal2-center-left, .swal2-container.swal2-grow-column.swal2-bottom-left {
+      -webkit-box-align: start;
+          -ms-flex-align: start;
+              align-items: flex-start; }
+    .swal2-container.swal2-grow-column.swal2-top-end, .swal2-container.swal2-grow-column.swal2-center-end, .swal2-container.swal2-grow-column.swal2-bottom-end, .swal2-container.swal2-grow-column.swal2-top-right, .swal2-container.swal2-grow-column.swal2-center-right, .swal2-container.swal2-grow-column.swal2-bottom-right {
+      -webkit-box-align: end;
+          -ms-flex-align: end;
+              align-items: flex-end; }
+    .swal2-container.swal2-grow-column > .swal2-modal {
+      display: -webkit-box !important;
+      display: -ms-flexbox !important;
+      display: flex !important;
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1;
+      -ms-flex-line-pack: center;
+          align-content: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+  .swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right) > .swal2-modal {
+    margin: auto; }
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .swal2-container .swal2-modal {
+      margin: 0 !important; } }
+  .swal2-container.swal2-fade {
+    -webkit-transition: background-color .1s;
+    transition: background-color .1s; }
+  .swal2-container.swal2-shown {
+    background-color: rgba(0, 0, 0, 0.4); }
+
+.swal2-popup {
+  display: none;
+  position: relative;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 32em;
+  max-width: 100%;
+  padding: 1.25em;
+  border-radius: .3125em;
+  background-color: #fff;
+  font-family: inherit;
+  font-size: 1rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: auto; }
+  .swal2-popup:focus {
+    outline: none; }
+  .swal2-popup.swal2-loading {
+    overflow-y: hidden; }
+  .swal2-popup .swal2-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .swal2-popup .swal2-title {
+    display: block;
+    position: relative;
+    margin: 0 0 .4em;
+    padding: 0;
+    color: #595959;
+    font-size: 1.875em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: none;
+    word-wrap: break-word; }
+  .swal2-popup .swal2-actions {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 1.25em; }
+    .swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled[disabled] {
+      opacity: .4; }
+    .swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled:hover {
+      background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0.1)));
+      background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)); }
+    .swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled:active {
+      background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2)));
+      background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)); }
+    .swal2-popup .swal2-actions.swal2-loading .swal2-styled.swal2-confirm {
+      width: 2.5em;
+      height: 2.5em;
+      margin: .46875em;
+      padding: 0;
+      border: .25em solid transparent;
+      border-radius: 100%;
+      border-color: transparent;
+      background-color: transparent !important;
+      color: transparent;
+      cursor: default;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box;
+      -webkit-animation: rotate-loading 1.5s linear 0s infinite normal;
+              animation: rotate-loading 1.5s linear 0s infinite normal;
+      -webkit-user-select: none;
+         -moz-user-select: none;
+          -ms-user-select: none;
+              user-select: none; }
+    .swal2-popup .swal2-actions.swal2-loading .swal2-styled.swal2-cancel {
+      margin-right: 30px;
+      margin-left: 30px; }
+    .swal2-popup .swal2-actions.swal2-loading :not(.swal2-styled).swal2-confirm::after {
+      display: inline-block;
+      width: 15px;
+      height: 15px;
+      margin-left: 5px;
+      border: 3px solid #999999;
+      border-radius: 50%;
+      border-right-color: transparent;
+      -webkit-box-shadow: 1px 1px 1px #fff;
+              box-shadow: 1px 1px 1px #fff;
+      content: '';
+      -webkit-animation: rotate-loading 1.5s linear 0s infinite normal;
+              animation: rotate-loading 1.5s linear 0s infinite normal; }
+  .swal2-popup .swal2-styled {
+    margin: 0 .3125em;
+    padding: .625em 2em;
+    border: 0;
+    border-radius: .25em;
+    color: #fff;
+    font-size: 1.0625em;
+    font-weight: 500;
+    -webkit-box-shadow: none;
+            box-shadow: none; }
+    .swal2-popup .swal2-styled:not([disabled]) {
+      cursor: pointer; }
+    .swal2-popup .swal2-styled.swal2-confirm {
+      background-color: #3085d6; }
+    .swal2-popup .swal2-styled.swal2-cancel {
+      background-color: #aaa; }
+    .swal2-popup .swal2-styled:focus {
+      outline: none;
+      -webkit-box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(50, 100, 150, 0.4);
+              box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(50, 100, 150, 0.4); }
+    .swal2-popup .swal2-styled::-moz-focus-inner {
+      border: 0; }
+  .swal2-popup .swal2-footer {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 1.25em;
+    padding-top: 1em;
+    border-top: 1px solid #eee;
+    font-size: 1em; }
+  .swal2-popup .swal2-image {
+    max-width: 100%;
+    margin: 1.25em auto; }
+  .swal2-popup .swal2-close {
+    position: absolute;
+    top: 5px;
+    right: 8px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 1.2em;
+    min-width: 1.2em;
+    height: 1.2em;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: color .1s ease;
+    transition: color .1s ease;
+    border: 0;
+    background: transparent;
+    color: #cccccc;
+    font-family: serif;
+    font-size: calc(2.5em - 0.25em);
+    line-height: 1.2em;
+    cursor: pointer; }
+    .swal2-popup .swal2-close:hover {
+      color: #d55; }
+  .swal2-popup > .swal2-input,
+  .swal2-popup > .swal2-file,
+  .swal2-popup > .swal2-textarea,
+  .swal2-popup > .swal2-select,
+  .swal2-popup > .swal2-radio,
+  .swal2-popup > .swal2-checkbox {
+    display: none; }
+  .swal2-popup .swal2-content {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 0;
+    padding: 0;
+    color: #545454;
+    font-size: 1.125em;
+    font-weight: 300;
+    line-height: normal;
+    word-wrap: break-word; }
+  .swal2-popup #swal2-content {
+    text-align: center; }
+  .swal2-popup .swal2-input,
+  .swal2-popup .swal2-file,
+  .swal2-popup .swal2-textarea,
+  .swal2-popup .swal2-select,
+  .swal2-popup .swal2-radio,
+  .swal2-popup .swal2-checkbox {
+    margin: 1em auto; }
+  .swal2-popup .swal2-input,
+  .swal2-popup .swal2-file,
+  .swal2-popup .swal2-textarea {
+    width: 100%;
+    -webkit-transition: border-color .3s, -webkit-box-shadow .3s;
+    transition: border-color .3s, -webkit-box-shadow .3s;
+    transition: border-color .3s, box-shadow .3s;
+    transition: border-color .3s, box-shadow .3s, -webkit-box-shadow .3s;
+    border: 1px solid #d9d9d9;
+    border-radius: 3px;
+    font-size: 1.125em;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.06);
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.06);
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+    .swal2-popup .swal2-input.swal2-inputerror,
+    .swal2-popup .swal2-file.swal2-inputerror,
+    .swal2-popup .swal2-textarea.swal2-inputerror {
+      border-color: #f27474 !important;
+      -webkit-box-shadow: 0 0 2px #f27474 !important;
+              box-shadow: 0 0 2px #f27474 !important; }
+    .swal2-popup .swal2-input:focus,
+    .swal2-popup .swal2-file:focus,
+    .swal2-popup .swal2-textarea:focus {
+      border: 1px solid #b4dbed;
+      outline: none;
+      -webkit-box-shadow: 0 0 3px #c4e6f5;
+              box-shadow: 0 0 3px #c4e6f5; }
+    .swal2-popup .swal2-input::-webkit-input-placeholder,
+    .swal2-popup .swal2-file::-webkit-input-placeholder,
+    .swal2-popup .swal2-textarea::-webkit-input-placeholder {
+      color: #cccccc; }
+    .swal2-popup .swal2-input:-ms-input-placeholder,
+    .swal2-popup .swal2-file:-ms-input-placeholder,
+    .swal2-popup .swal2-textarea:-ms-input-placeholder {
+      color: #cccccc; }
+    .swal2-popup .swal2-input::-ms-input-placeholder,
+    .swal2-popup .swal2-file::-ms-input-placeholder,
+    .swal2-popup .swal2-textarea::-ms-input-placeholder {
+      color: #cccccc; }
+    .swal2-popup .swal2-input::placeholder,
+    .swal2-popup .swal2-file::placeholder,
+    .swal2-popup .swal2-textarea::placeholder {
+      color: #cccccc; }
+  .swal2-popup .swal2-range input {
+    width: 80%; }
+  .swal2-popup .swal2-range output {
+    width: 20%;
+    font-weight: 600;
+    text-align: center; }
+  .swal2-popup .swal2-range input,
+  .swal2-popup .swal2-range output {
+    height: 2.625em;
+    margin: 1em auto;
+    padding: 0;
+    font-size: 1.125em;
+    line-height: 2.625em; }
+  .swal2-popup .swal2-input {
+    height: 2.625em;
+    padding: 0 .75em; }
+    .swal2-popup .swal2-input[type='number'] {
+      max-width: 10em; }
+  .swal2-popup .swal2-file {
+    font-size: 1.125em; }
+  .swal2-popup .swal2-textarea {
+    height: 6.75em;
+    padding: .75em; }
+  .swal2-popup .swal2-select {
+    min-width: 50%;
+    max-width: 100%;
+    padding: .375em .625em;
+    color: #545454;
+    font-size: 1.125em; }
+  .swal2-popup .swal2-radio,
+  .swal2-popup .swal2-checkbox {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    .swal2-popup .swal2-radio label,
+    .swal2-popup .swal2-checkbox label {
+      margin: 0 .6em;
+      font-size: 1.125em; }
+    .swal2-popup .swal2-radio input,
+    .swal2-popup .swal2-checkbox input {
+      margin: 0 .4em; }
+  .swal2-popup .swal2-validationerror {
+    display: none;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding: .625em;
+    background-color: #f0f0f0;
+    color: gray;
+    font-size: 1em;
+    font-weight: 300;
+    overflow: hidden; }
+    .swal2-popup .swal2-validationerror::before {
+      display: inline-block;
+      width: 1.5em;
+      height: 1.5em;
+      margin: 0 .625em;
+      border-radius: 50%;
+      background-color: #ea7d7d;
+      color: #fff;
+      font-weight: 600;
+      line-height: 1.5em;
+      text-align: center;
+      content: '!'; }
+
+@supports (-ms-accelerator: true) {
+  .swal2-range input {
+    width: 100% !important; }
+  .swal2-range output {
+    display: none; } }
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .swal2-range input {
+    width: 100% !important; }
+  .swal2-range output {
+    display: none; } }
+
+.swal2-icon {
+  position: relative;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 80px;
+  height: 80px;
+  margin: 1.25em auto 1.875em;
+  border: 4px solid transparent;
+  border-radius: 50%;
+  line-height: 80px;
+  cursor: default;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none; }
+  .swal2-icon.swal2-error {
+    border-color: #f27474; }
+    .swal2-icon.swal2-error .swal2-x-mark {
+      position: relative;
+      -webkit-box-flex: 1;
+          -ms-flex-positive: 1;
+              flex-grow: 1; }
+    .swal2-icon.swal2-error [class^='swal2-x-mark-line'] {
+      display: block;
+      position: absolute;
+      top: 37px;
+      width: 47px;
+      height: 5px;
+      border-radius: 2px;
+      background-color: #f27474; }
+      .swal2-icon.swal2-error [class^='swal2-x-mark-line'][class$='left'] {
+        left: 17px;
+        -webkit-transform: rotate(45deg);
+                transform: rotate(45deg); }
+      .swal2-icon.swal2-error [class^='swal2-x-mark-line'][class$='right'] {
+        right: 16px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg); }
+  .swal2-icon.swal2-warning, .swal2-icon.swal2-info, .swal2-icon.swal2-question {
+    margin: .333333em auto .5em;
+    font-family: inherit;
+    font-size: 3.75em; }
+  .swal2-icon.swal2-warning {
+    border-color: #facea8;
+    color: #f8bb86; }
+  .swal2-icon.swal2-info {
+    border-color: #9de0f6;
+    color: #3fc3ee; }
+  .swal2-icon.swal2-question {
+    border-color: #c9dae1;
+    color: #87adbd; }
+  .swal2-icon.swal2-success {
+    border-color: #a5dc86; }
+    .swal2-icon.swal2-success [class^='swal2-success-circular-line'] {
+      position: absolute;
+      width: 60px;
+      height: 120px;
+      -webkit-transform: rotate(45deg);
+              transform: rotate(45deg);
+      border-radius: 50%; }
+      .swal2-icon.swal2-success [class^='swal2-success-circular-line'][class$='left'] {
+        top: -7px;
+        left: -33px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg);
+        -webkit-transform-origin: 60px 60px;
+                transform-origin: 60px 60px;
+        border-radius: 120px 0 0 120px; }
+      .swal2-icon.swal2-success [class^='swal2-success-circular-line'][class$='right'] {
+        top: -11px;
+        left: 30px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg);
+        -webkit-transform-origin: 0 60px;
+                transform-origin: 0 60px;
+        border-radius: 0 120px 120px 0; }
+    .swal2-icon.swal2-success .swal2-success-ring {
+      position: absolute;
+      top: -4px;
+      left: -4px;
+      width: 80px;
+      height: 80px;
+      border: 4px solid rgba(165, 220, 134, 0.2);
+      border-radius: 50%;
+      z-index: 2;
+      -webkit-box-sizing: content-box;
+              box-sizing: content-box; }
+    .swal2-icon.swal2-success .swal2-success-fix {
+      position: absolute;
+      top: 8px;
+      left: 26px;
+      width: 7px;
+      height: 90px;
+      -webkit-transform: rotate(-45deg);
+              transform: rotate(-45deg);
+      z-index: 1; }
+    .swal2-icon.swal2-success [class^='swal2-success-line'] {
+      display: block;
+      position: absolute;
+      height: 5px;
+      border-radius: 2px;
+      background-color: #a5dc86;
+      z-index: 2; }
+      .swal2-icon.swal2-success [class^='swal2-success-line'][class$='tip'] {
+        top: 46px;
+        left: 14px;
+        width: 25px;
+        -webkit-transform: rotate(45deg);
+                transform: rotate(45deg); }
+      .swal2-icon.swal2-success [class^='swal2-success-line'][class$='long'] {
+        top: 38px;
+        right: 8px;
+        width: 47px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg); }
+
+.swal2-progresssteps {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 0 1.25em;
+  padding: 0;
+  font-weight: 600; }
+  .swal2-progresssteps li {
+    display: inline-block;
+    position: relative; }
+  .swal2-progresssteps .swal2-progresscircle {
+    width: 2em;
+    height: 2em;
+    border-radius: 2em;
+    background: #3085d6;
+    color: #fff;
+    line-height: 2em;
+    text-align: center;
+    z-index: 20; }
+    .swal2-progresssteps .swal2-progresscircle:first-child {
+      margin-left: 0; }
+    .swal2-progresssteps .swal2-progresscircle:last-child {
+      margin-right: 0; }
+    .swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep {
+      background: #3085d6; }
+      .swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep ~ .swal2-progresscircle {
+        background: #add8e6; }
+      .swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep ~ .swal2-progressline {
+        background: #add8e6; }
+  .swal2-progresssteps .swal2-progressline {
+    width: 2.5em;
+    height: .4em;
+    margin: 0 -1px;
+    background: #3085d6;
+    z-index: 10; }
+
+[class^='swal2'] {
+  -webkit-tap-highlight-color: transparent; }
+
+@-webkit-keyframes showSweetAlert {
+  0% {
+    -webkit-transform: scale(0.7);
+            transform: scale(0.7); }
+  45% {
+    -webkit-transform: scale(1.05);
+            transform: scale(1.05); }
+  80% {
+    -webkit-transform: scale(0.95);
+            transform: scale(0.95); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+
+@keyframes showSweetAlert {
+  0% {
+    -webkit-transform: scale(0.7);
+            transform: scale(0.7); }
+  45% {
+    -webkit-transform: scale(1.05);
+            transform: scale(1.05); }
+  80% {
+    -webkit-transform: scale(0.95);
+            transform: scale(0.95); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+
+@-webkit-keyframes hideSweetAlert {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1; }
+  100% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+    opacity: 0; } }
+
+@keyframes hideSweetAlert {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1; }
+  100% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+    opacity: 0; } }
+
+.swal2-show {
+  -webkit-animation: showSweetAlert .3s;
+          animation: showSweetAlert .3s; }
+  .swal2-show.swal2-noanimation {
+    -webkit-animation: none;
+            animation: none; }
+
+.swal2-hide {
+  -webkit-animation: hideSweetAlert .15s forwards;
+          animation: hideSweetAlert .15s forwards; }
+  .swal2-hide.swal2-noanimation {
+    -webkit-animation: none;
+            animation: none; }
+
+[dir='rtl'] .swal2-close {
+  right: auto;
+  left: 8px; }
+
+@-webkit-keyframes animate-success-tip {
+  0% {
+    top: 19px;
+    left: 1px;
+    width: 0; }
+  54% {
+    top: 17px;
+    left: 2px;
+    width: 0; }
+  70% {
+    top: 35px;
+    left: -6px;
+    width: 50px; }
+  84% {
+    top: 48px;
+    left: 21px;
+    width: 17px; }
+  100% {
+    top: 45px;
+    left: 14px;
+    width: 25px; } }
+
+@keyframes animate-success-tip {
+  0% {
+    top: 19px;
+    left: 1px;
+    width: 0; }
+  54% {
+    top: 17px;
+    left: 2px;
+    width: 0; }
+  70% {
+    top: 35px;
+    left: -6px;
+    width: 50px; }
+  84% {
+    top: 48px;
+    left: 21px;
+    width: 17px; }
+  100% {
+    top: 45px;
+    left: 14px;
+    width: 25px; } }
+
+@-webkit-keyframes animate-success-long {
+  0% {
+    top: 54px;
+    right: 46px;
+    width: 0; }
+  65% {
+    top: 54px;
+    right: 46px;
+    width: 0; }
+  84% {
+    top: 35px;
+    right: 0;
+    width: 55px; }
+  100% {
+    top: 38px;
+    right: 8px;
+    width: 47px; } }
+
+@keyframes animate-success-long {
+  0% {
+    top: 54px;
+    right: 46px;
+    width: 0; }
+  65% {
+    top: 54px;
+    right: 46px;
+    width: 0; }
+  84% {
+    top: 35px;
+    right: 0;
+    width: 55px; }
+  100% {
+    top: 38px;
+    right: 8px;
+    width: 47px; } }
+
+@-webkit-keyframes rotatePlaceholder {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  5% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  12% {
+    -webkit-transform: rotate(-405deg);
+            transform: rotate(-405deg); }
+  100% {
+    -webkit-transform: rotate(-405deg);
+            transform: rotate(-405deg); } }
+
+@keyframes rotatePlaceholder {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  5% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  12% {
+    -webkit-transform: rotate(-405deg);
+            transform: rotate(-405deg); }
+  100% {
+    -webkit-transform: rotate(-405deg);
+            transform: rotate(-405deg); } }
+
+.swal2-animate-success-line-tip {
+  -webkit-animation: animate-success-tip .75s;
+          animation: animate-success-tip .75s; }
+
+.swal2-animate-success-line-long {
+  -webkit-animation: animate-success-long .75s;
+          animation: animate-success-long .75s; }
+
+.swal2-success.swal2-animate-success-icon .swal2-success-circular-line-right {
+  -webkit-animation: rotatePlaceholder 4.25s ease-in;
+          animation: rotatePlaceholder 4.25s ease-in; }
+
+@-webkit-keyframes animate-error-icon {
+  0% {
+    -webkit-transform: rotateX(100deg);
+            transform: rotateX(100deg);
+    opacity: 0; }
+  100% {
+    -webkit-transform: rotateX(0deg);
+            transform: rotateX(0deg);
+    opacity: 1; } }
+
+@keyframes animate-error-icon {
+  0% {
+    -webkit-transform: rotateX(100deg);
+            transform: rotateX(100deg);
+    opacity: 0; }
+  100% {
+    -webkit-transform: rotateX(0deg);
+            transform: rotateX(0deg);
+    opacity: 1; } }
+
+.swal2-animate-error-icon {
+  -webkit-animation: animate-error-icon .5s;
+          animation: animate-error-icon .5s; }
+
+@-webkit-keyframes animate-x-mark {
+  0% {
+    margin-top: 26px;
+    -webkit-transform: scale(0.4);
+            transform: scale(0.4);
+    opacity: 0; }
+  50% {
+    margin-top: 26px;
+    -webkit-transform: scale(0.4);
+            transform: scale(0.4);
+    opacity: 0; }
+  80% {
+    margin-top: -6px;
+    -webkit-transform: scale(1.15);
+            transform: scale(1.15); }
+  100% {
+    margin-top: 0;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1; } }
+
+@keyframes animate-x-mark {
+  0% {
+    margin-top: 26px;
+    -webkit-transform: scale(0.4);
+            transform: scale(0.4);
+    opacity: 0; }
+  50% {
+    margin-top: 26px;
+    -webkit-transform: scale(0.4);
+            transform: scale(0.4);
+    opacity: 0; }
+  80% {
+    margin-top: -6px;
+    -webkit-transform: scale(1.15);
+            transform: scale(1.15); }
+  100% {
+    margin-top: 0;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1; } }
+
+.swal2-animate-x-mark {
+  -webkit-animation: animate-x-mark .5s;
+          animation: animate-x-mark .5s; }
+
+@-webkit-keyframes rotate-loading {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+@keyframes rotate-loading {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+</style>
+
+<style type="text/css">
+  .service{
+
+    transition: 1.2s;
+  }
+  .service:hover
+    {
+      background-color:black;
+      transform: scale(1.1);
+    }
+    @import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body {
+    background: #f9f9f9;
+    font-size: 16px;
+    font-family:'Trebuchet MS', sans-serif
+}
+
+
+
+.title {
+    color: #1a1a1a;
+    text-align: center;
+    margin-bottom: 10px
+}
+
+.content {
+    position: relative;
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+    overflow: hidden
+}
+
+.content .content-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s
+}
+
+.content:hover .content-overlay {
+    opacity: 1
+}
+
+.content-image {
+    width: 100%
+}
+
+img {
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 5px
+}
+
+.content-details {
+    position: absolute;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s
+}
+
+.content:hover .content-details {
+    top: 50%;
+    left: 50%;
+    opacity: 1
+}
+
+.content-details h3 {
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase
+}
+
+.content-details p {
+    color: #fff;
+    font-size: 0.8em
+}
+
+
+/**/
+.about_text p , .about_text strong{
+    color:white !important;
+    font-weight:bold !important;
+    text-align:justify !important;
+}
+.text {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+
+.our_work{
+   overflow: hidden;
+   text-overflow:ellipsis;
+   display:-webkit-box;
+   -webkit-line-clamp:13; /* number of lines to show */
+   -webkit-box-orient:vertical;
+}
+.our_work:hover{
+    background-color:#F0E68C;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+  scroll-behavior: smooth;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+html{
+    scroll-behavior: smooth;
+}
+ /* for desktop */
+      .whatsapp_float {
+          position: fixed;
+          width: 60px;
+          height: 60px;
+          bottom: 40px;
+          right: 40px;
+          background-color: #25d366;
+          color: #FFF;
+          border-radius: 50px;
+          text-align: center;
+          font-size: 30px;
+          box-shadow: 2px 2px 3px #999;
+          z-index: 100;
+      }
+
+      .whatsapp-icon {
+          margin-top: 16px;
+      }
+
+      /* for mobile */
+      @media screen and (max-width: 767px) {
+          .whatsapp-icon {
+              margin-top: 10px;
+          }
+
+          .whatsapp_float {
+              width: 40px;
+              height: 40px;
+              bottom: 20px;
+              right: 10px;
+              font-size: 22px;
+          }
+      }
+</style>
+<style>
+
+header{position:relative;}
+p{font-size:17px;}
+.section-heading span {font-size: 18px;}
+.navbar .navbar-nav a.nav-link {font-size: 18px;}
+.sub-header ul.right-icons li {font-size: 14px; font-weight:600 ;}
+
+header .dropdown:hover .dropdown-menu{display:block;}
+.background-header {position: sticky;}
+.sub-header ul.right-icons{float:none;}
+.navbar .container{max-width:90%;}
+.navbar .navbar-nav .nav-item {margin: 0px 10px;}
+.navbar .navbar-nav a.nav-link.li_mobile{background: #0694ba;color: #ffffff !important;}
+.navbar .navbar-nav a.nav-link.li_mobile:first-of-type{margin-right:10px;}
+.navbar .navbar-nav .nav-link{border-bottom: 3px solid transparent;}
+.navbar .navbar-nav .nav-link.li_mobile:hover, .navbar .navbar-nav .active>.nav-link.li_mobile, .navbar .navbar-nav .nav-link.li_mobile.active, .navbar .navbar-nav .nav-link.li_mobile.show, .navbar .navbar-nav .show>.nav-link.li_mobile {border-bottom: 0;}
+.dropdown-menu.sm-menu{margin:0;}
+
+
+.headerback {height: max-content;}
+
+
+
+
+
+#account .left-image{margin-top: 50%;transform: translateY(-50%);}
+.headerback::before{height:100%;width:66px;position:absolute;top:0; left:0;content:'';border-left: 36px solid #ffffff;border-bottom: 36px solid transparent;border-right: 30px solid transparent;border-top: 32px solid #ffffff;margin-top: -20px;}
+.sub-header ul.right-icons li a.language{background:#ffffff;color:#0694BA;padding:2px 10px;border-radius:5px;}
+
+
+
+
+
+
+
+
+header .navbar {background: #ffffff;}
+
+
+@media (max-width: 1315px) {
+    .navbar .navbar-nav a.nav-link{padding-left: 5px;padding-right: 5px;font-size:17px;}
+    .navbar .navbar-nav .nav-item {margin: 0px 6px;}
+}
+@media (max-width: 1199px) {
+   .circle {
+    height: 210px;} 
+    .headerback::before, .sub-header ul.left-info{display:none;}
+    header {height: 150px;}
+    #navbarResponsive {top: 100px;}
+    
+    
+}
+
+@media (max-width: 767px) {
+    .post-sharing {top: auto;transform: none;background: #ffffff;box-shadow: none;bottom: 0;z-index: 1000;width: 100%;}
+    .post-sharing a {display: inline-block;width: 32.33%;}
+    .modal.show .modal-dialog { max-width: 85%;}
+    header {height: 100px;}
+    .types h3 {margin-top: 15px;}
+}
+
+
+
+p {
+  margin-bottom: 0px;
+  font-size: 14px;
+  color: #666666;
+  line-height: 30px;
+}
+a {
+  text-decoration: none!important;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 0px;
+}
+.headerback{
+  background: #0694ba;
+}
+
+
+.section-heading {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.section-heading h2 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #1e1e1e;
+}
+
+
+
+/* Sub Header Style */
+
+.sub-header {
+  background-color: #fff !important;
+  height: 46px;
+  line-height: 46px;
+  border-bottom:1px solid #0694BA;
+}
+
+.sub-header ul li {
+  display: inline-block;
+}
+
+.sub-header ul.left-info li {
+  border-left: 1px solid rgba(250,250,250,0.3);
+  padding: 0px 20px;
+}
+
+.sub-header ul.left-info li:last-child {
+  border-right: 1px solid rgba(250,250,250,0.3);
+}
+
+.sub-header ul.left-info li i {
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.sub-header ul.left-info li a {
+  color: #24201f;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.sub-header ul.right-icons {
+  float: center !important;
+}
+
+.sub-header ul.right-icons li {
+  margin-right: 15px;
+  width: auto;
+  display: inline-block;
+  text-align: center;
+  /* border-right: 1px solid rgba(250,250,250,0.3); */
+}
+
+.sub-header ul.right-icons li:first-child {
+  /* border-left: 1px solid rgba(250,250,250,0.3); */
+}
+
+.sub-header ul.right-icons li a {
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.sub-header ul.right-icons li a:hover {
+  opacity: 0.75;
+  color: white;
+  font-weight: 600;
+}
+
+
+
+/* Header Style */
+header {
+  position: absolute;
+  z-index: 99999;
+  width: 100%;
+  background-color: transparent!important;
+  height: 130px;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    -o-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+header .navbar {
+  /* padding: 20px 0px; */
+  padding:0px;
+}
+.background-header .navbar {
+  /* padding: 10px 0px; */
+  padding:0px;
+}
+.background-header {
+  top: 0;
+  position: fixed;
+  background-color: #fff!important;
+  box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
+}
+.background-header .navbar-brand h2 {
+  color: #0694BA!important;
+}
+.background-header .navbar-nav a.nav-link {
+  color: #1e1e1e!important;
+}
+.background-header .navbar-nav .nav-link:hover,
+.background-header .navbar-nav .active>.nav-link,
+.background-header .navbar-nav .nav-link.active,
+.background-header .navbar-nav .nav-link.show,
+.background-header .navbar-nav .show>.nav-link {
+  color: #0694BA!important;
+}
+.navbar .navbar-brand {
+  float:  left;
+  /* margin-top: 12px; */
+  padding-top:0px;
+  outline: none;
+}
+.navbar .navbar-brand h2 {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 700;
+  -webkit-transition: all .3s ease 0s;
+    -moz-transition: all .3s ease 0s;
+    -o-transition: all .3s ease 0s;
+    transition: all .3s ease 0s;
+}
+.navbar .navbar-brand h2 em {
+  font-style: normal;
+  font-size: 16px;
+}
+#navbarResponsive {
+  z-index: 999;
+}
+.navbar-collapse {
+  text-align: center;
+}
+.navbar .navbar-nav .nav-item {
+  margin: 0px 15px;
+}
+.navbar .navbar-nav a.nav-link {
+  text-transform: capitalize;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #1e1e1e!important;
+  transition: all 0.5s;
+  margin-top: 5px;
+}
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .active>.nav-link,
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link.show,
+.navbar .navbar-nav .show>.nav-link {
+  color: #0694BA;
+  border-bottom: 3px solid #0694BA;
+}
+.navbar .navbar-toggler-icon {
+  background-image: none;
+}
+.navbar .navbar-toggler {
+  border-color: #fff;
+  background-color: #fff; 
+  height: 36px;
+  outline: none;
+  border-radius: 0px;
+  position: absolute;
+  right: 30px;
+  top: 20px;
+}
+.navbar .navbar-toggler-icon:after {
+  content: '\f0c9';
+  color: #0694BA;
+  font-size: 18px;
+  line-height: 26px;
+  font-family: 'FontAwesome';
+}
+
+/* Responsive Style */
+@media (max-width: 768px) {
+  .sub-header {
+    display: none;
+  }
+ 
+ 
+}
+
+@media (max-width: 992px) {
+  .navbar .navbar-brand {
+    position: absolute;
+    left: 30px;
+    top: 10px;
+  }
+  .navbar .navbar-brand {
+    width: auto;
+  }
+  .navbar:after {
+    display: none;
+  }
+  #navbarResponsive {
+      z-index: 99999;
+      position: absolute;
+      top: 80px;
+      left: 0;
+      width: 100%;
+      text-align: center;
+      background-color: #fff;
+      box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  }
+  .navbar .navbar-nav .nav-item {
+    border-bottom: 1px solid #eee;
+  }
+  .navbar .navbar-nav .nav-item:last-child {
+    border-bottom: none;
+  }
+  .navbar .navbar-nav a.nav-link {
+    padding: 15px 0px;
+    color: #1e1e1e!important;
+  }
+  .navbar .navbar-nav .nav-link:hover,
+  .navbar .navbar-nav .active>.nav-link,
+  .navbar .navbar-nav .nav-link.active,
+  .navbar .navbar-nav .nav-link.show,
+  .navbar .navbar-nav .show>.nav-link {
+    color: #0694BA!important;
+    border-bottom: none!important;
+  }
+}
+
+
+}
+
+
+.btn-link {
+    color: #15549a;
+    font-weight: 500;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #15549a;
+    display: inline-block;
+}
+
+
+
+
+.tab-content {
+    display: block;
+    padding: 40px 10px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #ffffff;
+    background-color: #0694BA;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.nav-tabs .nav-link {
+    border: 1px solid #ccc;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    margin-right: 10px;
+}
+
+a.nav-link {
+    color: #0694BA; 
+}
+
+
+
+.btnblue {
+    display: inline-block;
+    margin-top: 10px;}
+    .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    margin-right: 0;
+    background: #fff;
+}
+.more-info .right-content .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    margin-right: 0;
+    background: #fff;
+}
+.more-info .right-content .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #444b5b !important;
+}
+.more-info .right-content .nav-tabs {
+    border-bottom: 0;
+}
+section#blog .section-heading h5 span{
+    background: #ebebeb;
+    display: inline-block;
+    padding: 2px 10px;
+}
+
+
+/*.modal.show .modal-dialog{margin: 0 auto;top: 20%;transform: translateY(-50%);}*/
+
+
+  </style><style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style><style type="text/css">body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch; }
+  body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast .swal2-actions {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -ms-flex-item-align: stretch;
+        align-self: stretch;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    height: 2.2em; }
+  body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast .swal2-loading {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast .swal2-input {
+    height: 2em;
+    margin: .3125em auto;
+    font-size: 1em; }
+  body.swal2-toast-shown.swal2-has-input > .swal2-container > .swal2-toast .swal2-validationerror {
+    font-size: 1em; }
+
+body.swal2-toast-shown > .swal2-container {
+  position: fixed;
+  background-color: transparent; }
+  body.swal2-toast-shown > .swal2-container.swal2-shown {
+    background-color: transparent; }
+  body.swal2-toast-shown > .swal2-container.swal2-top {
+    top: 0;
+    right: auto;
+    bottom: auto;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-top-end, body.swal2-toast-shown > .swal2-container.swal2-top-right {
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto; }
+  body.swal2-toast-shown > .swal2-container.swal2-top-start, body.swal2-toast-shown > .swal2-container.swal2-top-left {
+    top: 0;
+    right: auto;
+    bottom: auto;
+    left: 0; }
+  body.swal2-toast-shown > .swal2-container.swal2-center-start, body.swal2-toast-shown > .swal2-container.swal2-center-left {
+    top: 50%;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-center {
+    top: 50%;
+    right: auto;
+    bottom: auto;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-center-end, body.swal2-toast-shown > .swal2-container.swal2-center-right {
+    top: 50%;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-bottom-start, body.swal2-toast-shown > .swal2-container.swal2-bottom-left {
+    top: auto;
+    right: auto;
+    bottom: 0;
+    left: 0; }
+  body.swal2-toast-shown > .swal2-container.swal2-bottom {
+    top: auto;
+    right: auto;
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  body.swal2-toast-shown > .swal2-container.swal2-bottom-end, body.swal2-toast-shown > .swal2-container.swal2-bottom-right {
+    top: auto;
+    right: 0;
+    bottom: 0;
+    left: auto; }
+
+.swal2-popup.swal2-toast {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: auto;
+  padding: 0.625em;
+  -webkit-box-shadow: 0 0 10px #d9d9d9;
+          box-shadow: 0 0 10px #d9d9d9;
+  overflow-y: hidden; }
+  .swal2-popup.swal2-toast .swal2-header {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row; }
+  .swal2-popup.swal2-toast .swal2-title {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    margin: 0 .6em;
+    font-size: 1em; }
+  .swal2-popup.swal2-toast .swal2-close {
+    position: initial; }
+  .swal2-popup.swal2-toast .swal2-content {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    font-size: 1em; }
+  .swal2-popup.swal2-toast .swal2-icon {
+    width: 32px;
+    min-width: 32px;
+    height: 32px;
+    margin: 0; }
+    .swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring {
+      width: 32px;
+      height: 32px; }
+    .swal2-popup.swal2-toast .swal2-icon.swal2-info, .swal2-popup.swal2-toast .swal2-icon.swal2-warning, .swal2-popup.swal2-toast .swal2-icon.swal2-question {
+      font-size: 26px;
+      line-height: 32px; }
+    .swal2-popup.swal2-toast .swal2-icon.swal2-error [class^='swal2-x-mark-line'] {
+      top: 14px;
+      width: 22px; }
+      .swal2-popup.swal2-toast .swal2-icon.swal2-error [class^='swal2-x-mark-line'][class$='left'] {
+        left: 5px; }
+      .swal2-popup.swal2-toast .swal2-icon.swal2-error [class^='swal2-x-mark-line'][class$='right'] {
+        right: 5px; }
+  .swal2-popup.swal2-toast .swal2-actions {
+    height: auto;
+    margin: 0 .3125em; }
+  .swal2-popup.swal2-toast .swal2-styled {
+    margin: 0 .3125em;
+    padding: .3125em .625em;
+    font-size: 1em; }
+    .swal2-popup.swal2-toast .swal2-styled:focus {
+      -webkit-box-shadow: 0 0 0 1px #fff, 0 0 0 2px rgba(50, 100, 150, 0.4);
+              box-shadow: 0 0 0 1px #fff, 0 0 0 2px rgba(50, 100, 150, 0.4); }
+  .swal2-popup.swal2-toast .swal2-success {
+    border-color: #a5dc86; }
+    .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-circular-line'] {
+      position: absolute;
+      width: 32px;
+      height: 45px;
+      -webkit-transform: rotate(45deg);
+              transform: rotate(45deg);
+      border-radius: 50%; }
+      .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-circular-line'][class$='left'] {
+        top: -4px;
+        left: -15px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg);
+        -webkit-transform-origin: 32px 32px;
+                transform-origin: 32px 32px;
+        border-radius: 64px 0 0 64px; }
+      .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-circular-line'][class$='right'] {
+        top: -4px;
+        left: 15px;
+        -webkit-transform-origin: 0 32px;
+                transform-origin: 0 32px;
+        border-radius: 0 64px 64px 0; }
+    .swal2-popup.swal2-toast .swal2-success .swal2-success-ring {
+      width: 32px;
+      height: 32px; }
+    .swal2-popup.swal2-toast .swal2-success .swal2-success-fix {
+      top: 0;
+      left: 7px;
+      width: 7px;
+      height: 43px; }
+    .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-line'] {
+      height: 5px; }
+      .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-line'][class$='tip'] {
+        top: 18px;
+        left: 3px;
+        width: 12px; }
+      .swal2-popup.swal2-toast .swal2-success [class^='swal2-success-line'][class$='long'] {
+        top: 15px;
+        right: 3px;
+        width: 22px; }
+  .swal2-popup.swal2-toast.swal2-show {
+    -webkit-animation: showSweetToast .5s;
+            animation: showSweetToast .5s; }
+  .swal2-popup.swal2-toast.swal2-hide {
+    -webkit-animation: hideSweetToast .2s forwards;
+            animation: hideSweetToast .2s forwards; }
+  .swal2-popup.swal2-toast .swal2-animate-success-line-tip {
+    -webkit-animation: animate-toast-success-tip .75s;
+            animation: animate-toast-success-tip .75s; }
+  .swal2-popup.swal2-toast .swal2-animate-success-line-long {
+    -webkit-animation: animate-toast-success-long .75s;
+            animation: animate-toast-success-long .75s; }
+
+@-webkit-keyframes showSweetToast {
+  0% {
+    -webkit-transform: translateY(-10px) rotateZ(2deg);
+            transform: translateY(-10px) rotateZ(2deg);
+    opacity: 0; }
+  33% {
+    -webkit-transform: translateY(0) rotateZ(-2deg);
+            transform: translateY(0) rotateZ(-2deg);
+    opacity: .5; }
+  66% {
+    -webkit-transform: translateY(5px) rotateZ(2deg);
+            transform: translateY(5px) rotateZ(2deg);
+    opacity: .7; }
+  100% {
+    -webkit-transform: translateY(0) rotateZ(0);
+            transform: translateY(0) rotateZ(0);
+    opacity: 1; } }
+
+@keyframes showSweetToast {
+  0% {
+    -webkit-transform: translateY(-10px) rotateZ(2deg);
+            transform: translateY(-10px) rotateZ(2deg);
+    opacity: 0; }
+  33% {
+    -webkit-transform: translateY(0) rotateZ(-2deg);
+            transform: translateY(0) rotateZ(-2deg);
+    opacity: .5; }
+  66% {
+    -webkit-transform: translateY(5px) rotateZ(2deg);
+            transform: translateY(5px) rotateZ(2deg);
+    opacity: .7; }
+  100% {
+    -webkit-transform: translateY(0) rotateZ(0);
+            transform: translateY(0) rotateZ(0);
+    opacity: 1; } }
+
+@-webkit-keyframes hideSweetToast {
+  0% {
+    opacity: 1; }
+  33% {
+    opacity: .5; }
+  100% {
+    -webkit-transform: rotateZ(1deg);
+            transform: rotateZ(1deg);
+    opacity: 0; } }
+
+@keyframes hideSweetToast {
+  0% {
+    opacity: 1; }
+  33% {
+    opacity: .5; }
+  100% {
+    -webkit-transform: rotateZ(1deg);
+            transform: rotateZ(1deg);
+    opacity: 0; } }
+
+@-webkit-keyframes animate-toast-success-tip {
+  0% {
+    top: 9px;
+    left: 1px;
+    width: 0; }
+  54% {
+    top: 2px;
+    left: 2px;
+    width: 0; }
+  70% {
+    top: 10px;
+    left: -4px;
+    width: 26px; }
+  84% {
+    top: 17px;
+    left: 12px;
+    width: 8px; }
+  100% {
+    top: 18px;
+    left: 3px;
+    width: 12px; } }
+
+@keyframes animate-toast-success-tip {
+  0% {
+    top: 9px;
+    left: 1px;
+    width: 0; }
+  54% {
+    top: 2px;
+    left: 2px;
+    width: 0; }
+  70% {
+    top: 10px;
+    left: -4px;
+    width: 26px; }
+  84% {
+    top: 17px;
+    left: 12px;
+    width: 8px; }
+  100% {
+    top: 18px;
+    left: 3px;
+    width: 12px; } }
+
+@-webkit-keyframes animate-toast-success-long {
+  0% {
+    top: 26px;
+    right: 22px;
+    width: 0; }
+  65% {
+    top: 20px;
+    right: 15px;
+    width: 0; }
+  84% {
+    top: 15px;
+    right: 0;
+    width: 18px; }
+  100% {
+    top: 15px;
+    right: 3px;
+    width: 22px; } }
+
+@keyframes animate-toast-success-long {
+  0% {
+    top: 26px;
+    right: 22px;
+    width: 0; }
+  65% {
+    top: 20px;
+    right: 15px;
+    width: 0; }
+  84% {
+    top: 15px;
+    right: 0;
+    width: 18px; }
+  100% {
+    top: 15px;
+    right: 3px;
+    width: 22px; } }
+
+html.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown),
+body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) {
+  height: auto;
+  overflow-y: hidden; }
+
+body.swal2-iosfix {
+  position: fixed;
+  right: 0;
+  left: 0; }
+
+body.swal2-no-backdrop .swal2-shown {
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  background-color: transparent; }
+  body.swal2-no-backdrop .swal2-shown > .swal2-modal {
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); }
+  body.swal2-no-backdrop .swal2-shown.swal2-top {
+    top: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-top-start, body.swal2-no-backdrop .swal2-shown.swal2-top-left {
+    top: 0;
+    left: 0; }
+  body.swal2-no-backdrop .swal2-shown.swal2-top-end, body.swal2-no-backdrop .swal2-shown.swal2-top-right {
+    top: 0;
+    right: 0; }
+  body.swal2-no-backdrop .swal2-shown.swal2-center {
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-center-start, body.swal2-no-backdrop .swal2-shown.swal2-center-left {
+    top: 50%;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-center-end, body.swal2-no-backdrop .swal2-shown.swal2-center-right {
+    top: 50%;
+    right: 0;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-bottom {
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  body.swal2-no-backdrop .swal2-shown.swal2-bottom-start, body.swal2-no-backdrop .swal2-shown.swal2-bottom-left {
+    bottom: 0;
+    left: 0; }
+  body.swal2-no-backdrop .swal2-shown.swal2-bottom-end, body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
+    right: 0;
+    bottom: 0; }
+
+.swal2-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 10px;
+  background-color: transparent;
+  z-index: 1060;
+  overflow-x: hidden; }
+  .swal2-container.swal2-top {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start; }
+  .swal2-container.swal2-top-start, .swal2-container.swal2-top-left {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start; }
+  .swal2-container.swal2-top-end, .swal2-container.swal2-top-right {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end; }
+  .swal2-container.swal2-center {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .swal2-container.swal2-center-start, .swal2-container.swal2-center-left {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start; }
+  .swal2-container.swal2-center-end, .swal2-container.swal2-center-right {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end; }
+  .swal2-container.swal2-bottom {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end; }
+  .swal2-container.swal2-bottom-start, .swal2-container.swal2-bottom-left {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start; }
+  .swal2-container.swal2-bottom-end, .swal2-container.swal2-bottom-right {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end; }
+  .swal2-container.swal2-grow-fullscreen > .swal2-modal {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -ms-flex-item-align: stretch;
+        align-self: stretch;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  .swal2-container.swal2-grow-row > .swal2-modal {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  .swal2-container.swal2-grow-column {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+    .swal2-container.swal2-grow-column.swal2-top, .swal2-container.swal2-grow-column.swal2-center, .swal2-container.swal2-grow-column.swal2-bottom {
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center; }
+    .swal2-container.swal2-grow-column.swal2-top-start, .swal2-container.swal2-grow-column.swal2-center-start, .swal2-container.swal2-grow-column.swal2-bottom-start, .swal2-container.swal2-grow-column.swal2-top-left, .swal2-container.swal2-grow-column.swal2-center-left, .swal2-container.swal2-grow-column.swal2-bottom-left {
+      -webkit-box-align: start;
+          -ms-flex-align: start;
+              align-items: flex-start; }
+    .swal2-container.swal2-grow-column.swal2-top-end, .swal2-container.swal2-grow-column.swal2-center-end, .swal2-container.swal2-grow-column.swal2-bottom-end, .swal2-container.swal2-grow-column.swal2-top-right, .swal2-container.swal2-grow-column.swal2-center-right, .swal2-container.swal2-grow-column.swal2-bottom-right {
+      -webkit-box-align: end;
+          -ms-flex-align: end;
+              align-items: flex-end; }
+    .swal2-container.swal2-grow-column > .swal2-modal {
+      display: -webkit-box !important;
+      display: -ms-flexbox !important;
+      display: flex !important;
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1;
+      -ms-flex-line-pack: center;
+          align-content: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+  .swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right) > .swal2-modal {
+    margin: auto; }
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .swal2-container .swal2-modal {
+      margin: 0 !important; } }
+  .swal2-container.swal2-fade {
+    -webkit-transition: background-color .1s;
+    transition: background-color .1s; }
+  .swal2-container.swal2-shown {
+    background-color: rgba(0, 0, 0, 0.4); }
+
+.swal2-popup {
+  display: none;
+  position: relative;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 32em;
+  max-width: 100%;
+  padding: 1.25em;
+  border-radius: .3125em;
+  background-color: #fff;
+  font-family: inherit;
+  font-size: 1rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: auto; }
+  .swal2-popup:focus {
+    outline: none; }
+  .swal2-popup.swal2-loading {
+    overflow-y: hidden; }
+  .swal2-popup .swal2-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .swal2-popup .swal2-title {
+    display: block;
+    position: relative;
+    margin: 0 0 .4em;
+    padding: 0;
+    color: #595959;
+    font-size: 1.875em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: none;
+    word-wrap: break-word; }
+  .swal2-popup .swal2-actions {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 1.25em; }
+    .swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled[disabled] {
+      opacity: .4; }
+    .swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled:hover {
+      background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0.1)));
+      background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)); }
+    .swal2-popup .swal2-actions:not(.swal2-loading) .swal2-styled:active {
+      background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2)));
+      background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)); }
+    .swal2-popup .swal2-actions.swal2-loading .swal2-styled.swal2-confirm {
+      width: 2.5em;
+      height: 2.5em;
+      margin: .46875em;
+      padding: 0;
+      border: .25em solid transparent;
+      border-radius: 100%;
+      border-color: transparent;
+      background-color: transparent !important;
+      color: transparent;
+      cursor: default;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box;
+      -webkit-animation: rotate-loading 1.5s linear 0s infinite normal;
+              animation: rotate-loading 1.5s linear 0s infinite normal;
+      -webkit-user-select: none;
+         -moz-user-select: none;
+          -ms-user-select: none;
+              user-select: none; }
+    .swal2-popup .swal2-actions.swal2-loading .swal2-styled.swal2-cancel {
+      margin-right: 30px;
+      margin-left: 30px; }
+    .swal2-popup .swal2-actions.swal2-loading :not(.swal2-styled).swal2-confirm::after {
+      display: inline-block;
+      width: 15px;
+      height: 15px;
+      margin-left: 5px;
+      border: 3px solid #999999;
+      border-radius: 50%;
+      border-right-color: transparent;
+      -webkit-box-shadow: 1px 1px 1px #fff;
+              box-shadow: 1px 1px 1px #fff;
+      content: '';
+      -webkit-animation: rotate-loading 1.5s linear 0s infinite normal;
+              animation: rotate-loading 1.5s linear 0s infinite normal; }
+  .swal2-popup .swal2-styled {
+    margin: 0 .3125em;
+    padding: .625em 2em;
+    border: 0;
+    border-radius: .25em;
+    color: #fff;
+    font-size: 1.0625em;
+    font-weight: 500;
+    -webkit-box-shadow: none;
+            box-shadow: none; }
+    .swal2-popup .swal2-styled:not([disabled]) {
+      cursor: pointer; }
+    .swal2-popup .swal2-styled.swal2-confirm {
+      background-color: #3085d6; }
+    .swal2-popup .swal2-styled.swal2-cancel {
+      background-color: #aaa; }
+    .swal2-popup .swal2-styled:focus {
+      outline: none;
+      -webkit-box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(50, 100, 150, 0.4);
+              box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(50, 100, 150, 0.4); }
+    .swal2-popup .swal2-styled::-moz-focus-inner {
+      border: 0; }
+  .swal2-popup .swal2-footer {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 1.25em;
+    padding-top: 1em;
+    border-top: 1px solid #eee;
+    font-size: 1em; }
+  .swal2-popup .swal2-image {
+    max-width: 100%;
+    margin: 1.25em auto; }
+  .swal2-popup .swal2-close {
+    position: absolute;
+    top: 5px;
+    right: 8px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 1.2em;
+    min-width: 1.2em;
+    height: 1.2em;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: color .1s ease;
+    transition: color .1s ease;
+    border: 0;
+    background: transparent;
+    color: #cccccc;
+    font-family: serif;
+    font-size: calc(2.5em - 0.25em);
+    line-height: 1.2em;
+    cursor: pointer; }
+    .swal2-popup .swal2-close:hover {
+      color: #d55; }
+  .swal2-popup > .swal2-input,
+  .swal2-popup > .swal2-file,
+  .swal2-popup > .swal2-textarea,
+  .swal2-popup > .swal2-select,
+  .swal2-popup > .swal2-radio,
+  .swal2-popup > .swal2-checkbox {
+    display: none; }
+  .swal2-popup .swal2-content {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 0;
+    padding: 0;
+    color: #545454;
+    font-size: 1.125em;
+    font-weight: 300;
+    line-height: normal;
+    word-wrap: break-word; }
+  .swal2-popup #swal2-content {
+    text-align: center; }
+  .swal2-popup .swal2-input,
+  .swal2-popup .swal2-file,
+  .swal2-popup .swal2-textarea,
+  .swal2-popup .swal2-select,
+  .swal2-popup .swal2-radio,
+  .swal2-popup .swal2-checkbox {
+    margin: 1em auto; }
+  .swal2-popup .swal2-input,
+  .swal2-popup .swal2-file,
+  .swal2-popup .swal2-textarea {
+    width: 100%;
+    -webkit-transition: border-color .3s, -webkit-box-shadow .3s;
+    transition: border-color .3s, -webkit-box-shadow .3s;
+    transition: border-color .3s, box-shadow .3s;
+    transition: border-color .3s, box-shadow .3s, -webkit-box-shadow .3s;
+    border: 1px solid #d9d9d9;
+    border-radius: 3px;
+    font-size: 1.125em;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.06);
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.06);
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+    .swal2-popup .swal2-input.swal2-inputerror,
+    .swal2-popup .swal2-file.swal2-inputerror,
+    .swal2-popup .swal2-textarea.swal2-inputerror {
+      border-color: #f27474 !important;
+      -webkit-box-shadow: 0 0 2px #f27474 !important;
+              box-shadow: 0 0 2px #f27474 !important; }
+    .swal2-popup .swal2-input:focus,
+    .swal2-popup .swal2-file:focus,
+    .swal2-popup .swal2-textarea:focus {
+      border: 1px solid #b4dbed;
+      outline: none;
+      -webkit-box-shadow: 0 0 3px #c4e6f5;
+              box-shadow: 0 0 3px #c4e6f5; }
+    .swal2-popup .swal2-input::-webkit-input-placeholder,
+    .swal2-popup .swal2-file::-webkit-input-placeholder,
+    .swal2-popup .swal2-textarea::-webkit-input-placeholder {
+      color: #cccccc; }
+    .swal2-popup .swal2-input:-ms-input-placeholder,
+    .swal2-popup .swal2-file:-ms-input-placeholder,
+    .swal2-popup .swal2-textarea:-ms-input-placeholder {
+      color: #cccccc; }
+    .swal2-popup .swal2-input::-ms-input-placeholder,
+    .swal2-popup .swal2-file::-ms-input-placeholder,
+    .swal2-popup .swal2-textarea::-ms-input-placeholder {
+      color: #cccccc; }
+    .swal2-popup .swal2-input::placeholder,
+    .swal2-popup .swal2-file::placeholder,
+    .swal2-popup .swal2-textarea::placeholder {
+      color: #cccccc; }
+  .swal2-popup .swal2-range input {
+    width: 80%; }
+  .swal2-popup .swal2-range output {
+    width: 20%;
+    font-weight: 600;
+    text-align: center; }
+  .swal2-popup .swal2-range input,
+  .swal2-popup .swal2-range output {
+    height: 2.625em;
+    margin: 1em auto;
+    padding: 0;
+    font-size: 1.125em;
+    line-height: 2.625em; }
+  .swal2-popup .swal2-input {
+    height: 2.625em;
+    padding: 0 .75em; }
+    .swal2-popup .swal2-input[type='number'] {
+      max-width: 10em; }
+  .swal2-popup .swal2-file {
+    font-size: 1.125em; }
+  .swal2-popup .swal2-textarea {
+    height: 6.75em;
+    padding: .75em; }
+  .swal2-popup .swal2-select {
+    min-width: 50%;
+    max-width: 100%;
+    padding: .375em .625em;
+    color: #545454;
+    font-size: 1.125em; }
+  .swal2-popup .swal2-radio,
+  .swal2-popup .swal2-checkbox {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    .swal2-popup .swal2-radio label,
+    .swal2-popup .swal2-checkbox label {
+      margin: 0 .6em;
+      font-size: 1.125em; }
+    .swal2-popup .swal2-radio input,
+    .swal2-popup .swal2-checkbox input {
+      margin: 0 .4em; }
+  .swal2-popup .swal2-validationerror {
+    display: none;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding: .625em;
+    background-color: #f0f0f0;
+    color: gray;
+    font-size: 1em;
+    font-weight: 300;
+    overflow: hidden; }
+    .swal2-popup .swal2-validationerror::before {
+      display: inline-block;
+      width: 1.5em;
+      height: 1.5em;
+      margin: 0 .625em;
+      border-radius: 50%;
+      background-color: #ea7d7d;
+      color: #fff;
+      font-weight: 600;
+      line-height: 1.5em;
+      text-align: center;
+      content: '!'; }
+
+@supports (-ms-accelerator: true) {
+  .swal2-range input {
+    width: 100% !important; }
+  .swal2-range output {
+    display: none; } }
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .swal2-range input {
+    width: 100% !important; }
+  .swal2-range output {
+    display: none; } }
+
+.swal2-icon {
+  position: relative;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 80px;
+  height: 80px;
+  margin: 1.25em auto 1.875em;
+  border: 4px solid transparent;
+  border-radius: 50%;
+  line-height: 80px;
+  cursor: default;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none; }
+  .swal2-icon.swal2-error {
+    border-color: #f27474; }
+    .swal2-icon.swal2-error .swal2-x-mark {
+      position: relative;
+      -webkit-box-flex: 1;
+          -ms-flex-positive: 1;
+              flex-grow: 1; }
+    .swal2-icon.swal2-error [class^='swal2-x-mark-line'] {
+      display: block;
+      position: absolute;
+      top: 37px;
+      width: 47px;
+      height: 5px;
+      border-radius: 2px;
+      background-color: #f27474; }
+      .swal2-icon.swal2-error [class^='swal2-x-mark-line'][class$='left'] {
+        left: 17px;
+        -webkit-transform: rotate(45deg);
+                transform: rotate(45deg); }
+      .swal2-icon.swal2-error [class^='swal2-x-mark-line'][class$='right'] {
+        right: 16px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg); }
+  .swal2-icon.swal2-warning, .swal2-icon.swal2-info, .swal2-icon.swal2-question {
+    margin: .333333em auto .5em;
+    font-family: inherit;
+    font-size: 3.75em; }
+  .swal2-icon.swal2-warning {
+    border-color: #facea8;
+    color: #f8bb86; }
+  .swal2-icon.swal2-info {
+    border-color: #9de0f6;
+    color: #3fc3ee; }
+  .swal2-icon.swal2-question {
+    border-color: #c9dae1;
+    color: #87adbd; }
+  .swal2-icon.swal2-success {
+    border-color: #a5dc86; }
+    .swal2-icon.swal2-success [class^='swal2-success-circular-line'] {
+      position: absolute;
+      width: 60px;
+      height: 120px;
+      -webkit-transform: rotate(45deg);
+              transform: rotate(45deg);
+      border-radius: 50%; }
+      .swal2-icon.swal2-success [class^='swal2-success-circular-line'][class$='left'] {
+        top: -7px;
+        left: -33px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg);
+        -webkit-transform-origin: 60px 60px;
+                transform-origin: 60px 60px;
+        border-radius: 120px 0 0 120px; }
+      .swal2-icon.swal2-success [class^='swal2-success-circular-line'][class$='right'] {
+        top: -11px;
+        left: 30px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg);
+        -webkit-transform-origin: 0 60px;
+                transform-origin: 0 60px;
+        border-radius: 0 120px 120px 0; }
+    .swal2-icon.swal2-success .swal2-success-ring {
+      position: absolute;
+      top: -4px;
+      left: -4px;
+      width: 80px;
+      height: 80px;
+      border: 4px solid rgba(165, 220, 134, 0.2);
+      border-radius: 50%;
+      z-index: 2;
+      -webkit-box-sizing: content-box;
+              box-sizing: content-box; }
+    .swal2-icon.swal2-success .swal2-success-fix {
+      position: absolute;
+      top: 8px;
+      left: 26px;
+      width: 7px;
+      height: 90px;
+      -webkit-transform: rotate(-45deg);
+              transform: rotate(-45deg);
+      z-index: 1; }
+    .swal2-icon.swal2-success [class^='swal2-success-line'] {
+      display: block;
+      position: absolute;
+      height: 5px;
+      border-radius: 2px;
+      background-color: #a5dc86;
+      z-index: 2; }
+      .swal2-icon.swal2-success [class^='swal2-success-line'][class$='tip'] {
+        top: 46px;
+        left: 14px;
+        width: 25px;
+        -webkit-transform: rotate(45deg);
+                transform: rotate(45deg); }
+      .swal2-icon.swal2-success [class^='swal2-success-line'][class$='long'] {
+        top: 38px;
+        right: 8px;
+        width: 47px;
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg); }
+
+.swal2-progresssteps {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 0 1.25em;
+  padding: 0;
+  font-weight: 600; }
+  .swal2-progresssteps li {
+    display: inline-block;
+    position: relative; }
+  .swal2-progresssteps .swal2-progresscircle {
+    width: 2em;
+    height: 2em;
+    border-radius: 2em;
+    background: #3085d6;
+    color: #fff;
+    line-height: 2em;
+    text-align: center;
+    z-index: 20; }
+    .swal2-progresssteps .swal2-progresscircle:first-child {
+      margin-left: 0; }
+    .swal2-progresssteps .swal2-progresscircle:last-child {
+      margin-right: 0; }
+    .swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep {
+      background: #3085d6; }
+      .swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep ~ .swal2-progresscircle {
+        background: #add8e6; }
+      .swal2-progresssteps .swal2-progresscircle.swal2-activeprogressstep ~ .swal2-progressline {
+        background: #add8e6; }
+  .swal2-progresssteps .swal2-progressline {
+    width: 2.5em;
+    height: .4em;
+    margin: 0 -1px;
+    background: #3085d6;
+    z-index: 10; }
+
+[class^='swal2'] {
+  -webkit-tap-highlight-color: transparent; }
+
+@-webkit-keyframes showSweetAlert {
+  0% {
+    -webkit-transform: scale(0.7);
+            transform: scale(0.7); }
+  45% {
+    -webkit-transform: scale(1.05);
+            transform: scale(1.05); }
+  80% {
+    -webkit-transform: scale(0.95);
+            transform: scale(0.95); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+
+@keyframes showSweetAlert {
+  0% {
+    -webkit-transform: scale(0.7);
+            transform: scale(0.7); }
+  45% {
+    -webkit-transform: scale(1.05);
+            transform: scale(1.05); }
+  80% {
+    -webkit-transform: scale(0.95);
+            transform: scale(0.95); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+
+@-webkit-keyframes hideSweetAlert {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1; }
+  100% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+    opacity: 0; } }
+
+@keyframes hideSweetAlert {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1; }
+  100% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+    opacity: 0; } }
+
+.swal2-show {
+  -webkit-animation: showSweetAlert .3s;
+          animation: showSweetAlert .3s; }
+  .swal2-show.swal2-noanimation {
+    -webkit-animation: none;
+            animation: none; }
+
+.swal2-hide {
+  -webkit-animation: hideSweetAlert .15s forwards;
+          animation: hideSweetAlert .15s forwards; }
+  .swal2-hide.swal2-noanimation {
+    -webkit-animation: none;
+            animation: none; }
+
+[dir='rtl'] .swal2-close {
+  right: auto;
+  left: 8px; }
+
+@-webkit-keyframes animate-success-tip {
+  0% {
+    top: 19px;
+    left: 1px;
+    width: 0; }
+  54% {
+    top: 17px;
+    left: 2px;
+    width: 0; }
+  70% {
+    top: 35px;
+    left: -6px;
+    width: 50px; }
+  84% {
+    top: 48px;
+    left: 21px;
+    width: 17px; }
+  100% {
+    top: 45px;
+    left: 14px;
+    width: 25px; } }
+
+@keyframes animate-success-tip {
+  0% {
+    top: 19px;
+    left: 1px;
+    width: 0; }
+  54% {
+    top: 17px;
+    left: 2px;
+    width: 0; }
+  70% {
+    top: 35px;
+    left: -6px;
+    width: 50px; }
+  84% {
+    top: 48px;
+    left: 21px;
+    width: 17px; }
+  100% {
+    top: 45px;
+    left: 14px;
+    width: 25px; } }
+
+@-webkit-keyframes animate-success-long {
+  0% {
+    top: 54px;
+    right: 46px;
+    width: 0; }
+  65% {
+    top: 54px;
+    right: 46px;
+    width: 0; }
+  84% {
+    top: 35px;
+    right: 0;
+    width: 55px; }
+  100% {
+    top: 38px;
+    right: 8px;
+    width: 47px; } }
+
+@keyframes animate-success-long {
+  0% {
+    top: 54px;
+    right: 46px;
+    width: 0; }
+  65% {
+    top: 54px;
+    right: 46px;
+    width: 0; }
+  84% {
+    top: 35px;
+    right: 0;
+    width: 55px; }
+  100% {
+    top: 38px;
+    right: 8px;
+    width: 47px; } }
+
+@-webkit-keyframes rotatePlaceholder {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  5% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  12% {
+    -webkit-transform: rotate(-405deg);
+            transform: rotate(-405deg); }
+  100% {
+    -webkit-transform: rotate(-405deg);
+            transform: rotate(-405deg); } }
+
+@keyframes rotatePlaceholder {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  5% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg); }
+  12% {
+    -webkit-transform: rotate(-405deg);
+            transform: rotate(-405deg); }
+  100% {
+    -webkit-transform: rotate(-405deg);
+            transform: rotate(-405deg); } }
+
+.swal2-animate-success-line-tip {
+  -webkit-animation: animate-success-tip .75s;
+          animation: animate-success-tip .75s; }
+
+.swal2-animate-success-line-long {
+  -webkit-animation: animate-success-long .75s;
+          animation: animate-success-long .75s; }
+
+.swal2-success.swal2-animate-success-icon .swal2-success-circular-line-right {
+  -webkit-animation: rotatePlaceholder 4.25s ease-in;
+          animation: rotatePlaceholder 4.25s ease-in; }
+
+@-webkit-keyframes animate-error-icon {
+  0% {
+    -webkit-transform: rotateX(100deg);
+            transform: rotateX(100deg);
+    opacity: 0; }
+  100% {
+    -webkit-transform: rotateX(0deg);
+            transform: rotateX(0deg);
+    opacity: 1; } }
+
+@keyframes animate-error-icon {
+  0% {
+    -webkit-transform: rotateX(100deg);
+            transform: rotateX(100deg);
+    opacity: 0; }
+  100% {
+    -webkit-transform: rotateX(0deg);
+            transform: rotateX(0deg);
+    opacity: 1; } }
+
+.swal2-animate-error-icon {
+  -webkit-animation: animate-error-icon .5s;
+          animation: animate-error-icon .5s; }
+
+@-webkit-keyframes animate-x-mark {
+  0% {
+    margin-top: 26px;
+    -webkit-transform: scale(0.4);
+            transform: scale(0.4);
+    opacity: 0; }
+  50% {
+    margin-top: 26px;
+    -webkit-transform: scale(0.4);
+            transform: scale(0.4);
+    opacity: 0; }
+  80% {
+    margin-top: -6px;
+    -webkit-transform: scale(1.15);
+            transform: scale(1.15); }
+  100% {
+    margin-top: 0;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1; } }
+
+@keyframes animate-x-mark {
+  0% {
+    margin-top: 26px;
+    -webkit-transform: scale(0.4);
+            transform: scale(0.4);
+    opacity: 0; }
+  50% {
+    margin-top: 26px;
+    -webkit-transform: scale(0.4);
+            transform: scale(0.4);
+    opacity: 0; }
+  80% {
+    margin-top: -6px;
+    -webkit-transform: scale(1.15);
+            transform: scale(1.15); }
+  100% {
+    margin-top: 0;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 1; } }
+
+.swal2-animate-x-mark {
+  -webkit-animation: animate-x-mark .5s;
+          animation: animate-x-mark .5s; }
+
+@-webkit-keyframes rotate-loading {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+@keyframes rotate-loading {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+</style><script type="text/javascript" charset="UTF-8" src="./lastpage_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./lastpage_files/util.js.download"></script></head>
+  <!-- <a
+        href="https://wa.me/9552554010"
+        class="whatsapp_float"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fa fa-whatsapp" style="font-size:24px"></i>
+      </a> --> 
+  
+    <body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" class="" style=""><header>
+
+    <div class="sub-header">
+      <div class="">
+        <div class="row">
+          <div class="col-lg-4 col-xs-12">
+            <ul class="left-info">
+              <li><a href="https://www.nagebabamultistate.in/#"><i class="fa fa-clock-o"></i>Mon-Sat 09:00 AM - 09:00 PM</a></li>
+              <li><a href="tel:1800 5322 111"><i class="fa fa-phone"></i>1800 5322 111</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-8 headerback text-right">
+            <ul class="right-icons">
+              <li><a data-toggle="modal" data-target="#accountModal">खाते उघडा</a></li>
+              <li><a data-toggle="modal" data-target="#fdmodal">मुदत ठेवी</a></li>
+        <li><a data-toggle="modal" data-target="#rdmodal">आवर्ती ठेवी</a></li>
+         <li><a data-toggle="modal" data-target="#loanmodal">कर्ज घ्या</a></li>
+         <li><a data-toggle="modal" data-target="#customerModal" data-keyboard="false" data-backdrop="static" data-id="" data-name="" data-img="">कस्टमर मदत</a></li>
+           <li><a href="https://www.nagebabamultistate.in/website/feedback">फीडबॅक</a></li>
+         <li><a href="https://play.google.com/store/apps/details?id=com.sil.nagebabaimps&amp;hl=en" class="">मोबाईल बँकिंग</a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.sil.nagebabaimps&amp;hl=en" class="">इंटरनेट बँकिंग</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+   
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-870FYGYQD2');
+</script>
+
+      <nav class="navbar navbar-expand-xl" style="position: -webkit-sticky;
+  position: sticky;  top: 0;">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="https://www.nagebabamultistate.in/">
+    
+        </a><div class="mt-2 mb-2"><a class="navbar-brand" href="https://www.nagebabamultistate.in/">   
+          <img class="img-fluid aos-init aos-animate" data-aos="zoom-in" data-aos-duration="1700" data-aos-delay="400" src="./lastpage_files/163997629750642829.jpg" alt="Nagebaba Logo"></a></div>
+      
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+
+              <li class="nav-item  dmenu ">
+              <a class="nav-link" href="https://www.nagebabamultistate.in/website/index" id="navbardrop">
+                 मुख्यपृष्ठ
+               </a>
+             </li>
+           
+              <li class="nav-item dropdown dmenu ">
+              <a class="nav-link dropdown-toggle" href="https://www.nagebabamultistate.in/#" id="navbardrop">
+                  आमच्याबद्दल
+              </a>
+              <div class="dropdown-menu sm-menu">
+                <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/about_us">नागेबाबा बद्दल</a>
+                <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/about_chairman">चेअरमन बद्दल</a>
+                <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/about_management">व्यवस्थापना बद्दल</a>
+              </div>
+             </li>
+                <li class="nav-item  dmenu ">
+              <a class="nav-link" href="https://www.nagebabamultistate.in/website/branches" id="navbardrop">
+                 सेवा 
+               </a>
+             </li>
+
+                <li class="nav-item dropdown dmenu ">
+              <a class="nav-link dropdown-toggle" href="https://www.nagebabamultistate.in/#" id="navbardrop">
+                ठेव योजना
+              </a>
+              <div class="dropdown-menu sm-menu">
+                                 <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/deposite_details/1">फिक्स डिपॉझिट</a>
+                                  <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/deposite_details/2">आवर्ती ठेव (रिकरिंग डिपॉझिट)</a>
+                                  <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/deposite_details/3">लॉकर डिपॉझिट</a>
+                              </div>
+             </li>
+             
+             <li class="nav-item dropdown dmenu ">
+                  <a class="nav-link dropdown-toggle" href="https://www.nagebabamultistate.in/" id="navbardrop">
+                    कर्ज योजना
+                  </a>
+                  <div class="dropdown-menu sm-menu">
+                                     <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/loan_details/1">सोनेतारण कर्ज</a>
+                                  <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/loan_details/3">तारण कर्ज</a>
+                                  <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/loan_details/4">वैयक्तिक कर्ज</a>
+                                  <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/loan_details/6">व्यावसायिक कर्ज</a>
+                                  </div>
+             </li>
+              
+               <li class="nav-item  dmenu">
+              <a class="nav-link" href="https://www.nagebabamultistate.in/website/branches" id="navbardrop">
+                 शाखा  
+               </a>
+             </li> 
+              <li class="nav-item  dmenu ">
+              <a class="nav-link" href="https://www.nagebabamultistate.in/website/our_works" id="navbardrop">
+                 आमची कामे   
+               </a>
+             </li>   
+  
+            <li class="nav-item dropdown dmenu ">
+              <a class="nav-link" href="https://www.nagebabamultistate.in/smart-banking.php" id="navbardrop">
+                प्रकाशन
+              </a>
+              <div class="dropdown-menu sm-menu">
+                 <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/vichardhan">विचारधन</a>
+                <a class="dropdown-item" href="https://www.nagebabamultistate.in/website/book">पुस्तके</a>
+              </div>
+            </li>
+            <li class="nav-item dmenu ">
+              <a class="nav-link" href="https://www.nagebabamultistate.in/website/blogs" id="navbardrop">
+                मीडिया
+              </a>
+            </li>
+
+          <!--   <li><a href="" class="li_mobile nav-link">मोबाईल बँकिंग</a></li>
+            <li><a href="" class="li_mobile nav-link">इंटरनेट बँकिंग</a></li> -->
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <br><br><br>
+<style type="text/css">
+  .service_det .card-body
+  {
+    transition: 0.3s;
+  }
+  .service_det:hover .card-body
+  {
+    background-color:#13536e;
+    transform: scaleY(1.1);
+  }
+  .service_det:hover .card-body *
+  {
+    color: white !important;      
+  }
+  .hover-bg-primary:hover
+  {
+    background-color: #13536E !important;
+    color: white !important;
+    transform: scale(1.05);
+  }
+  .hover-bg-primary:hover *
+  {
+    color: white !important;
+  }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+ .carousel-inner img {
+  width: 100%;
+  height: 200px;
+}
+.slider_arrow{
+  background-color:black;border-radius:50%;color:white;padding:20px;font-size:20px;
+} 
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .carousel-inner img {
+    width: 100%;
+    height: 550px;
+  }
+  .slider_arrow{
+    background-color:black;border-radius:50%;color:white;padding:20px;font-size:20px;
+  }  
+}
+
+
+/*counter*/
+.sectionClass {
+/*  padding: 20px 0px 50px 0px;*/
+  position: relative;
+  display: block;
+} 
+
+.fullWidth {
+  width: 100% !important;
+  display: table;
+  float: none;
+  padding: 0;
+  min-height: 1px;
+  height: 100%;
+  position: relative;
+}
+
+
+.sectiontitle {
+  background-position: center;
+  margin: 30px 0 0px;
+  text-align: center;
+  min-height: 20px;
+}
+
+.sectiontitle h2 {
+  font-size: 30px;
+  color: #222;
+  margin-bottom: 0px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+
+.headerLine {
+  width: 160px;
+  height: 2px;
+  display: inline-block;
+  background: #101F2E;
+}
+
+
+.projectFactsWrap{
+  display: flex;
+  margin-top: 30px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+#projectFacts .fullWidth{
+  padding: 0;
+}
+
+.projectFactsWrap .item{
+  width: 25%;
+  height: 100%;
+  padding: 50px 0px;
+  text-align: center;
+}
+
+.projectFactsWrap .item:nth-child(1){
+  background: #105d70;
+}
+
+.projectFactsWrap .item:nth-child(2){
+  background: #105d70;
+}
+
+.projectFactsWrap .item:nth-child(3){
+  background: #105d70;
+}
+
+.projectFactsWrap .item:nth-child(4){
+  background: #105d70;
+}
+
+.projectFactsWrap .item p.number{
+  font-size: 40px;
+  padding: 0;
+  font-weight: bold;
+}
+
+.projectFactsWrap .item p{
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  margin: 0;
+  padding: 10px;
+  font-family: 'Open Sans';
+}
+
+
+.projectFactsWrap .item span{
+  width: 60px;
+  background: rgba(255, 255, 255, 0.8);
+  height: 2px;
+  display: block;
+  margin: 0 auto;
+}
+
+
+.projectFactsWrap .item i{
+  vertical-align: middle;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+
+.projectFactsWrap .item:hover i, .projectFactsWrap .item:hover p{
+  color: white;
+}
+
+.projectFactsWrap .item:hover span{
+  background: white;
+}
+
+@media (max-width: 786px){
+  .projectFactsWrap .item {
+   flex: 0 0 50%;
+ }
+}
+
+
+.authorWindow{
+  width: 600px;
+  background: #75439a;
+  padding: 22px 20px 22px 20px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.authorWindowWrapper{
+  display: none;
+  left: 110px;
+  top: 0;
+  padding-left: 25px;
+  position: absolute;
+}
+
+
+
+
+
+.trans{
+  opacity: 1;
+  -webkit-transform: translateX(0px);
+  transform: translateX(0px);
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+/*service*/
+  .icon-box {
+  margin-bottom: 30px;
+}
+.icon-box .icon {
+  display: inline-block;
+  height: 70px;
+  margin-bottom: 0;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  width: 70px;
+  text-align: center;
+}
+.icon-box .icon i {
+  line-height: 70px;
+}
+.icon-box .icon.icon-gray {
+  background-color: #eeeeee;
+  color: #555555;
+}
+.icon-box .icon.icon-gray:hover {
+  background-color: #d5d5d5;
+  color: #bbbbbb;
+}
+.icon-box .icon.icon-gray.icon-bordered {
+  background-color: transparent;
+  border: 2px solid #eeeeee;
+}
+.icon-box .icon.icon-gray.icon-bordered:hover {
+  background-color: #eeeeee;
+  color: #555555;
+}
+.icon-box .icon.icon-dark {
+  background-color: #105D70;
+  color: #fff;
+}
+.icon-box .icon.icon-dark:hover {
+  color: #5e5e5e;
+}
+.icon-box .icon.icon-dark.icon-bordered {
+  background-color: transparent;
+  border: 2px solid #105D70;
+  color: #105D70;
+}
+.icon-box .icon.icon-dark.icon-bordered:hover {
+  background-color: #105D70;
+  border-color: #105D70;
+  color: #fff;
+}
+.icon-box .icon.icon-white {
+  background-color: #fff;
+  color: #333333;
+}
+.icon-box .icon.icon-white:hover {
+  background-color: #b3b3b3;
+  color: #000000;
+}
+.icon-box .icon.icon-white.icon-bordered {
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+}
+.icon-box .icon.icon-white.icon-bordered:hover {
+  background-color: #fff;
+  border-color: #fff;
+  color: #111111;
+}
+.icon-box .icon.icon-white.icon-border-effect {
+  position: relative;
+}
+.icon-box .icon.icon-white.icon-border-effect::after {
+  box-shadow: 0 0 0 3px #fff;
+}
+.icon-box .icon.icon-bordered {
+  border: 1px solid #777777;
+}
+.icon-box .icon.icon-bordered:hover {
+  background-color: #777777;
+  color: #fff;
+}
+.icon-box .icon.icon-rounded {
+  border-radius: 3px;
+}
+.icon-box .icon.icon-circled {
+  border-radius: 50%;
+}
+.icon-box .icon.icon-xs {
+  height: 30px;
+  width: 30px;
+}
+.icon-box .icon.icon-xs i {
+  font-size: 18px;
+  line-height: 30px;
+}
+.icon-box .icon.icon-sm {
+  height: 50px;
+  width: 50px;
+}
+.icon-box .icon.icon-sm i {
+  font-size: 22px;
+  line-height: 50px;
+}
+.icon-box .icon.icon-md {
+  height: 75px;
+  width: 75px;
+}
+.icon-box .icon.icon-md i {
+  font-size: 36px;
+  line-height: 75px;
+}
+.icon-box .icon.icon-lg {
+  height: 90px;
+  width: 90px;
+}
+.icon-box .icon.icon-lg i {
+  font-size: 48px;
+  line-height: 90px;
+}
+.icon-box .icon.icon-xl {
+  height: 120px;
+  width: 120px;
+}
+.icon-box .icon.icon-xl i {
+  font-size: 60px;
+  line-height: 120px;
+}
+.icon-box .icon.icon-border-effect {
+  position: relative;
+}
+.icon-box .icon.icon-border-effect::after {
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px ;
+  box-sizing: content-box;
+  content: "";
+  height: 100%;
+  left: -4px;
+  opacity: 0;
+  padding: 4px;
+  top: -4px;
+  transform: scale(0.8);
+  transition: transform 0.2s ease 0s, opacity 0.2s ease 0s;
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+}
+.icon-box .icon.icon-border-effect.effect-flat::after {
+  border-radius: 0;
+}
+.icon-box .icon.icon-border-effect.effect-rounded::after {
+  border-radius: 3px;
+}
+.icon-box .icon.icon-border-effect.effect-circled::after {
+  border-radius: 50%;
+}
+.icon-box .icon.icon-border-effect.icon-gray::after {
+  box-shadow: 0 0 0 3px #eeeeee;
+}
+.icon-box .icon.icon-top {
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  top: -32px;
+}
+.icon-box i {
+  display: inline-block;
+  font-size: 40px;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.icon-box i[class*="pe-7s-"] {
+  vertical-align: text-bottom;
+}
+.icon-box.left {
+  text-align: left;
+}
+.icon-box.left a {
+  margin-right: 30px;
+  padding: 0;
+}
+.icon-box.iconbox-border {
+  border: 1px solid #dcdcdc;
+}
+.icon-box.iconbox-bg {
+  background-color: #fafafa;
+}
+.icon-box.iconbox-bg.iconbox-bg-dark {
+  background-color: #333333;
+}
+.icon-box.icon-left .icon {
+  float: left;
+  margin-right: 10px;
+}
+@media only screen and (max-width: 767px) {
+  .icon-box.icon-left .icon {
+    float: none !important;
+    margin-right: 0;
+  }
+}
+.icon-box.icon-left .icon.no-bg {
+  width: auto;
+  height: auto;
+}
+.rotate {
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transition: all 700ms ease-in-out 0s;
+  -o-transition: all 700ms ease-in-out 0s;
+  transition: all 700ms ease-in-out 0s;
+}
+.no-rotate {
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-transition: all 700ms ease-in-out 0s;
+  -o-transition: all 700ms ease-in-out 0s;
+  transition: all 700ms ease-in-out 0s;
+}
+.icon-box:hover .icon-border-effect::after {
+  opacity: 1;
+  transform: scale(1);
+}
+.icon-box .icon-border-effect:hover::after {
+  opacity: 1;
+  transform: scale(1);
+}
+/*
+ * 5.0 -> Img Icon Box
+ * -----------------------------------------------
+*/
+.img-icon-box {
+  position: relative;
+  overflow: hidden;
+  -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+}
+.img-icon-box:before {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  content: '';
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+.img-icon-box i,
+.img-icon-box .img-icon-box h3 {
+  -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+}
+.img-icon-box .img-icon-details {
+  position: relative;
+  min-height: 330px;
+}
+.img-icon-box .img-icon-details i {
+  color: #FFF;
+}
+.img-icon-box .img-icon-content {
+  opacity: 0;
+  -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+}
+.img-icon-box:hover i {
+  font-size: 0;
+}
+.img-icon-box:hover .img-icon-content {
+  opacity: 1;
+}
+/* -------- Icon Box Services ---------- */
+.service-icon-box {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.service-icon-box a {
+  background: #eeeeee;
+  color: #fff;
+  display: inline-block;
+  height: 70px;
+  line-height: 80px;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+  width: 70px;
+}
+.service-icon-box a i {
+  font-size: 28px;
+}
+.service-icon-box:hover a i {
+  color: #fff;
+}
+
+
+/*  Blog area CSS
+/*----------------------------------------*/
+
+.single-blog {
+    border: 1px solid #efefef;
+    overflow: hidden;
+    padding-bottom: 15px;
+    transition: all 0.3s ease 0s;
+}
+
+.single-blog:hover {
+    box-shadow: 0 8px 16px 1px #ccc;
+     border-color: #105D70;
+}
+
+.blo-image-and-date {
+    position: relative;
+}
+
+.blo-image-and-date>a {
+    background: #0aaac0 none repeat scroll 0 0;
+    color: #fff;
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    left: 0;
+    line-height: 70px;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+    width: 75px;
+}
+
+.blog-info {
+    padding: 11px 15px 31px;
+}
+
+.admin {
+    width: 50%;
+    float: left;
+}
+
+.comment {
+    float: right;
+    text-align: right;
+    width: 50%;
+}
+
+.admin>a {
+    color: #888;
+    font-size: 14px;
+}
+
+.admin a i,
+.comment a i {
+    margin-right: 4px;
+}
+
+.comment a:hover i,
+.admin>a:hover i {
+    color: #0AAAC0;
+}
+
+.comment>a {
+    border-right: 1px solid;
+    color: #888;
+    padding: 0 7.5px;
+}
+
+.comment>a:last-child {
+    border-right: 0px solid;
+    padding-right: 0px;
+}
+
+.blog-text {
+    padding: 15px;
+}
+
+.blog-text h3 a {
+    color: #1b1b1b;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.blog-text h3 a:hover {
+    color: #0AAAA0;
+}
+
+.blog-text>p {
+    color: #333;
+    font-size: 14px;
+}
+
+.blog-text>a {
+    border-bottom: 1px solid #333;
+    color: #333;
+    float: right;
+    font-family: lato;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.blog-text>a:hover {
+    color: #0AAAC0;
+    border-bottom: 1px solid #0AAAC0;
+}
+
+
+/*testimonials*/
+ .heading {
+    text-align: center;
+    color: #454343;
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+    margin-bottom: 70px;
+    text-transform: uppercase;
+    z-index: 999;
+}
+.white-heading{
+    color: #ffffff;
+}
+.heading:after {
+    content: ' ';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    height: 40px;
+    width: 180px;
+    border-radius: 4px;
+    transform: translateX(-50%);
+    background: url(img/heading-line.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.white-heading:after {
+    background: url(https://i.ibb.co/d7tSD1R/heading-line-white.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.heading span {
+    font-size: 18px;
+    display: block;
+    font-weight: 500;
+}
+.white-heading span {
+    color: #ffffff;
+}
+
+
+
+.divider{
+  height: 10px;
+  width: 200px;
+  background: rgb(52,205,204);
+background: linear-gradient(0deg, rgba(52,205,204,1) 0%, rgba(52,155,221,1) 100%);
+}
+   
+</style>
+
+ <div class="preloader" style="display: none;">
+  <div class="spin"></div>
+</div>
+<section>
+   
+
+  <div class="container-fluid mt-5">
+  <div class="row mt-2 mb-2">
+    <div class="col-md-12 col-sm-12 col-12">
+      <div id="demo" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+                      <div class="carousel-item active" data-duration-in=".3" data-animation-in="fadeInLeft" data-delay-in=".1">
+             <a href="https://www.nagebabamultistate.in/#" data-duration-in=".1" data-animation-in="zoomIn" data-delay-in=".4">
+              <img src="./lastpage_files/slider-1692333178-95039.jpg" class="d-none d-md-block" alt="Nagebaba Slider" width="100%">
+              <img src="./lastpage_files/slider-1692333178-95039.jpg" class="d-block d-md-none" alt="Nagebaba Slider" width="100%">
+            </a>
+          </div>
+                </div>
+      <a class="carousel-control-prev" href="https://www.nagebabamultistate.in/#demo" data-slide="prev">
+        <span class="fa fa-arrow-left slider_arrow p-0 m-0 p-1" style="border-radius:0px;"></span>
+      </a>
+      <a class="carousel-control-next" href="https://www.nagebabamultistate.in/#demo" data-slide="next">
+        <span class="fa fa-arrow-right slider_arrow p-0 m-0 p-1" style="border-radius:0px;"></span>
+      </a>
+    </div>
+  </div>
+   <!-- <div class="col-md-3 col-sm-12 co-12 text-center">
+      <button data-aos="flip-right"data-aos-duration="1200" data-aos-delay='200' class="btn form-control shadow banking-btn1 mt-5" style="height: 55px;background: rgb(58,180,156);
+background: linear-gradient(90deg, rgba(58,180,156,1) 0%, rgba(29,222,253,1) 50%, rgba(69,146,252,1) 100%);" data-toggle="modal" data-target="#accountModal">खाते उघडा</button>
+
+      <button data-aos="flip-right"data-aos-duration="1250" data-aos-delay='250' class="btn form-control shadow mt-4 banking-btn1" style="height: 55px;background: rgb(58,180,156);
+background: linear-gradient(90deg, rgba(58,180,156,1) 0%, rgba(29,222,253,1) 50%, rgba(69,146,252,1) 100%); font-weight: bolder;" data-toggle="modal" data-target="#fdmodal">मुदत ठेवी</button>
+
+      <button data-aos="flip-right"data-aos-duration="1300" data-aos-delay='300' class="btn form-control shadow mt-4 banking-btn1" style="height: 55px;background: rgb(58,180,156);
+background: linear-gradient(90deg, rgba(58,180,156,1) 0%, rgba(29,222,253,1) 50%, rgba(69,146,252,1) 100%); font-weight: bolder;" data-toggle="modal" data-target="#rdmodal">आवर्ती ठेवी</button>
+
+      <button data-aos="flip-right"data-aos-duration="1350" data-aos-delay='350' class="btn form-control shadow mt-4 banking-btn1" style="height: 55px;background: rgb(58,180,156);
+background: linear-gradient(90deg, rgba(58,180,156,1) 0%, rgba(29,222,253,1) 50%, rgba(69,146,252,1) 100%); font-weight: bolder;" data-toggle="modal" data-target="#loanmodal">कर्ज घ्या</button>
+
+      <button data-aos="flip-right"data-aos-duration="1400" data-aos-delay='400' class="btn form-control shadow mt-4 banking-btn1" style="height: 55px;background: rgb(58,180,156);
+background: linear-gradient(90deg, rgba(58,180,156,1) 0%, rgba(29,222,253,1) 50%, rgba(69,146,252,1) 100%); font-weight: bolder;" data-toggle='modal' data-target='#customerModal' data-keyboard="false" data-backdrop="static" data-id ='' data-name='' data-img=''>कस्टमर मदत</button>
+  </div> -->
+        
+      </div>
+    </div>
+    
+  </section>
+  <!-- <div class="container-fluid bg-primary">
+    <div class="row p-0">
+              <div class="col-12 p-0">
+          <marquee scrolldelay="10" id="mq" direction="left" loop="true" onmouseover="this.stop();" onmouseout="this.start();" style="margin:0px;height:auto;line-height: 100%;padding-bottom: 1px;padding-top: 10px;font-size: 13px;">
+            <ul style="padding:0px;margin:0px;">
+                              <li class="p-0 d-inline-block ml-3"><i class="fa fa-bullhorn text-white"></i>&nbsp;&nbsp;<a href="नागेबाबा फोन पे, QR CODE आणि UPI सुविधा आपल्या सेव"><span class="text-white">नागेबाबा फोन पे, QR CODE आणि UPI सुविधा |</span></a></li>
+                                <li class="p-0 d-inline-block ml-3"><i class="fa fa-bullhorn text-white"></i>&nbsp;&nbsp;<a href="नागेबाबा स्मार्ट कार्ड लवकरच "><span class="text-white">नागेबाबा स्मार्ट कार्ड लवकरच |</span></a></li>
+                                <li class="p-0 d-inline-block ml-3"><i class="fa fa-bullhorn text-white"></i>&nbsp;&nbsp;<a href="नागेबाबा सुरक्षा कवच ७०० रु मध्ये ३६५ दिवस सुरक्षा"><span class="text-white">नागेबाबा सुरक्षा कवच ७०० रु मध्ये ३६५ दिवस सुरक्षा</span></a></li>
+                            </ul>
+          </marquee>
+        </div>
+          </div>
+  </div> -->
+
+ <!--     <section class="section pt-4 pb-5">
+    <div class="container">
+      <div class="row justify-content-between align-items-center">
+        <div class="col-md-5 bg-contain mt-5 col-sm-12 col-12">
+         <div class="about-two__image">
+          <img src="https://www.nagebabamultistate.in/uploads/169104516392078128.jpg" width="400px" height="300px" class="about-two__image--2" alt="Awesome Image"/>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12 col-12">
+       <span class="section-title-border border-left mt-2"></span>
+       <h2 class="section-title" style="font-size: 30px;">संस्थेविषयी</h2>
+       <h4 class="section-title">श्री संत नागेबाबा मल्टीस्टेट को. ऑप. क्रेडीट सोसायटी लि. अहमदनगर</h4>
+       <span class=""><p>संत नागेबाबा मल्टीस्टेट आपल्या ग्राहकांना विविध वैशिष्ट्यांसह आणि फायद्यांसह बचत खात्यांच्या विस्तृत श्रेणीतून निवडण्याचा पर्याय प्रदान करते.&nbsp;विकसनशील ग्रामीण भागांसाठी आर्थिक आणि तांत्रिक मदतीचा एक महत्त्वाचा स्रोत आहे. संसाधने प्रदान करून लोकांना स्वतःला आणि त्यांच्या पर्यावरणास मदत करणे हे आमचे ध्येय आहे</p>
+</span>
+       <a href="https://www.nagebabamultistate.in/About" class="btn btn-primary hover-ripple">पुढे वाचा</a>
+     </div>
+   </div>
+ </div>
+</section>
+<section> -->
+ 
+
+
+     <section class="mt-5 pb-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <!-- <span class="section-title-border border-center"></span> -->
+          <h4 class="section-title text-info pb-0" style="font-size: 34px;">समाधानी व सुरक्षित  सेवा</h4>
+        </div>
+      </div>
+        <div class="row text-center">
+                          
+          <div class="col-sm-3 mt-3">
+            <div class="card p-2 shadow aos-init aos-animate" style="height:250px;border-radius: 10px;" data-aos="flip-right" data-aos-duration="1200" data-aos-delay="200">
+            <div class="icon-box pt-3 iconbox-theme-colored bg-lighter">
+              <a class="icon icon-dark icon-bordered icon-rounded icon-border-effect effect-rounded" href="https://www.nagebabamultistate.in/Website/services">
+                <i class="fa fa-lock"></i>
+              </a>
+              <h5 class="icon-box-title mt-3">लॉकर सुविधा</h5>
+              <p class="text-gray"></p><p><span class="marker">तुमच्या जवळच्या भागात सर्वोत्तम आणि अत्यंत कमी किमतीत लॉकर सेवा</span></p>
+<p></p>
+            </div>
+          </div>
+        </div>
+                           
+          <div class="col-sm-3 mt-3">
+            <div class="card p-2 shadow aos-init aos-animate" style="height:250px;border-radius: 10px;" data-aos="flip-right" data-aos-duration="1200" data-aos-delay="200">
+            <div class="icon-box pt-3 iconbox-theme-colored bg-lighter">
+              <a class="icon icon-dark icon-bordered icon-rounded icon-border-effect effect-rounded" href="https://www.nagebabamultistate.in/Website/services">
+                <i class="fa fa-money"></i>
+              </a>
+              <h5 class="icon-box-title mt-3">ठेव योजना</h5>
+              <p class="text-gray"></p><p>तुमचा पैसा वाचवण्याचा आणि साठवण्याचा सर्वात सुरक्षित मार्ग म्हणजे ठेव योजना</p>
+<p></p>
+            </div>
+          </div>
+        </div>
+                           
+          <div class="col-sm-3 mt-3">
+            <div class="card p-2 shadow aos-init aos-animate" style="height:250px;border-radius: 10px;" data-aos="flip-right" data-aos-duration="1200" data-aos-delay="200">
+            <div class="icon-box pt-3 iconbox-theme-colored bg-lighter">
+              <a class="icon icon-dark icon-bordered icon-rounded icon-border-effect effect-rounded" href="https://www.nagebabamultistate.in/Website/services">
+                <i class="fa fa-heart"></i>
+              </a>
+              <h5 class="icon-box-title mt-3">विमा योजना</h5>
+              <p class="text-gray"></p><p>फक्त रु. 700/- मध्ये 1 वर्षासाठी&nbsp;अपघाती विमा पॉलिसी</p>
+<p></p>
+            </div>
+          </div>
+        </div>
+                           
+          <div class="col-sm-3 mt-3">
+            <div class="card p-2 shadow aos-init aos-animate" style="height:250px;border-radius: 10px;" data-aos="flip-right" data-aos-duration="1200" data-aos-delay="200">
+            <div class="icon-box pt-3 iconbox-theme-colored bg-lighter">
+              <a class="icon icon-dark icon-bordered icon-rounded icon-border-effect effect-rounded" href="https://www.nagebabamultistate.in/Website/services">
+                <i class="fa fa-bank"></i>
+              </a>
+              <h5 class="icon-box-title mt-3">कर्ज योजना</h5>
+              <p class="text-gray"></p><p>व्यवसाय वाढ, आर्थिक गरजा यासाठी कमी कागदपत्रांमध्ये अर्थ सहाय्य</p>
+<p></p>
+            </div>
+          </div>
+        </div>
+                  
+        </div>
+      </div>
+    
+    </section>
+
+
+    <div class="container-fluid">
+  <div class="row ttm-bgcolor-darkgrey featured-icon-box-style1-row" style="background-color: white;">
+    <div class="col-md-4 col-sm-12 col-12 mb-3 mt-3 mt-md-0">
+      <div class="row p-4 text-center">
+        <div class="col-md-12 pl-0 col-12 text-center" style="padding: 10px;">
+         <i class="fa fa-smile-o icon-lg mr-3 text-primary" style="font-size:100px;"></i>
+         <h5 class="text-dark m-0 p-0 mt-4">विश्वसनीय सेवा</h5>
+         <p class="text-secondary m-0 p-0 mt-2">आम्ही आमच्या ग्राहकांवर विश्वास ठेवतो</p>
+       </div>
+     </div>
+   </div>
+   <div class="col-md-4 mb-3">
+    <div class="row p-4">
+      <div class="col-md-12 pl-0 col-12 text-center" style="padding: 10px;">
+       <i class="fa fa-clock-o icon-lg mr-3 text-primary" style="font-size:100px;"></i>
+       <h5 class="text-dark m-0 p-0 mt-4">365 दिवस 12 तास उघडे</h5>
+       <p class="text-secondary m-0 p-0 mt-2">+91 95525 54010,4057</p>
+     </div>
+   </div>
+ </div>
+ <div class="col-md-4 mb-3">
+  <div class="row p-4">
+    <div class="col-md-12 pl-0 col-12 text-center" style="padding: 10px;">
+      <i class="fa fa-smile-o mr-3 text-primary" style="font-size: 100px;"></i>
+      <h5 class="text-dark m-0 p-0 mt-4">तज्ञ आणि व्यावसायिक</h5>
+      <p class="text-secondary m-0 p-0 mt-2">उत्कृष्ट संघ आणि समर्थन</p>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+   <style>
+   .trans-image {
+      transition: transform 0.3s ease-in-out;
+   }
+   .trans-image:hover {
+     transform: rotate(10deg);
+     transform: scale(1.1);
+     overflow: hidden;
+   }
+</style>
+
+   <section class="mt-5 pb-5">
+            <div class="container">
+                           
+                 <div class="row">
+                    <div class="col-12 text-center">
+                         <!-- <span class="section-title-border border-center"></span> -->
+                         <h4 class="section-title text-info  pb-0" style="font-size: 34px;">सुरक्षित भविष्यासाठी भरपूर बचत करा!</h4>
+                    </div>
+                  </div>
+                <div class="row gy-4 blog">
+                                       <div class="col-lg-4 col-md-6">
+                        <div class="single-blog mb-3 shadow aos-init aos-animate" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400">
+                            <div class="blo-image-and-date">
+                                <img src="./lastpage_files/164129988615779051.jpg" class="h-100 w-100 trans-image">
+                            </div>
+                            <div class="blog-text bg-white">
+                                <h3><a href="https://www.nagebabamultistate.in/#">कर्ज</a></h3>
+                                <p></p><p>नागेबाबा मल्टिस्टेट स्पर्धात्मक व्याजदर,लवचिक कालावधी आणि तुमच्या प्रत्येक वैयक्तिक किंवा व्यावसायिक गरजा पूर्ण करण्यासाठी किमान कागदपत्रांसह कर्ज प्रदान करते.</p>
+<p></p>
+                            </div>
+                        </div>
+                    </div>
+                                      <div class="col-lg-4 col-md-6">
+                        <div class="single-blog mb-3 shadow aos-init aos-animate" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400">
+                            <div class="blo-image-and-date">
+                                <img src="./lastpage_files/164129884626159008.jpg" class="h-100 w-100 trans-image">
+                            </div>
+                            <div class="blog-text bg-white">
+                                <h3><a href="https://www.nagebabamultistate.in/#">मुदत ठेवी</a></h3>
+                                <p></p><p>मुदत ठेव योजना व्यैयक्तिक तसेच ज्येष्ठ नागरिक दोघांनाही सोयीस्कर आहे. तुमचा पैसा सुरक्षित आणि वाचवण्याचा उत्तम मार्ग<br>
+&nbsp;</p>
+<p></p>
+                            </div>
+                        </div>
+                    </div>
+                                      <div class="col-lg-4 col-md-6">
+                        <div class="single-blog mb-3 shadow aos-init aos-animate" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400">
+                            <div class="blo-image-and-date">
+                                <img src="./lastpage_files/164129932422916564.jpg" class="h-100 w-100 trans-image">
+                            </div>
+                            <div class="blog-text bg-white">
+                                <h3><a href="https://www.nagebabamultistate.in/#">मोबाईल बँकिंग</a></h3>
+                                <p></p><p>नागेबाबा मल्टिस्टेट सुरक्षित आणि सुरक्षित मोबाइल बँकिंग अप्लिकेशन प्रदान करते. ज्यात अनेक वैशिष्ट्ये आणि सेवा केवळ बँकिंग गरजा पूर्ण करतात.</p>
+<p></p>
+                            </div>
+                        </div>
+                    </div>
+                                  </div>
+                          </div>
+        </section>
+    <section class="funfacts">
+    <div id="projectFacts" class="sectionClass">
+      <div class="fullWidth eight columns">
+        <div class="projectFactsWrap ">
+          <div class="item wow fadeInUpBig animated animated" data-number="100" style="visibility: visible;">
+            <i class="fa fa-trophy"></i>
+            <p id="number1" class="number">100</p>
+            <span></span>
+            <p>पुरस्कार</p>
+          </div>
+          <div class="item wow fadeInUpBig animated animated" data-number="500000" style="visibility: visible;">
+            <i class="fa fa-smile"></i>
+            <p id="number2" class="number">500000</p>
+            <span></span>
+            <p>समाधानी सभासद</p>
+          </div>
+          <div class="item wow fadeInUpBig animated animated" data-number="1000 CR" style="visibility: visible;">
+            <i class="fa fa-inr"></i>
+            <p id="number3" class="number">1000 CR</p>
+            <span></span>
+            <p>ठेवी</p>
+          </div>
+          <div class="item wow fadeInUpBig animated animated" data-number="57" style="visibility: visible;">
+            <i class="fa fa-home"></i>
+            <p id="number3" class="number">57</p>
+            <span></span>
+            <p>कार्यरत शाखा</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+
+</section>
+
+  <div class="section1">
+    <div class="container ">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-12 text-center">
+        <!-- <span class="section-title-border border-center"></span> -->
+        <h4 class="section-title text-info mb-4 pb-0" style="font-size: 34px;">आपल्या सेवेतून  मिळालेले सर्व पुरस्कार</h4>      
+      </div>
+          
+        <div class="col-md-6 col-sm-12 col-12">
+          <div class="card mt-4 border-0" style="border-radius: 30px;">
+            <div class="row">
+      <div class="col-md-4 p-4 col-sm-12 col-12">
+        <img height="100%" width="100%" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400" src="./lastpage_files/169199130729226645.jpeg" class="aos-init aos-animate">
+      </div>
+      <div class="col-md-8 col-sm-12 col-12">
+        <h4 class="mt-2 pt-4 pb-2" style="font-size: 14px;">सिंगापूर  अवॉर्ड 2022 </h4>
+        <p></p><p>-</p>
+<p></p>
+        <p>
+          <a class="btn btn-primary btn-sm" href="https://www.nagebabamultistate.in/website/awards_details/8">View More</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+              
+        <div class="col-md-6 col-sm-12 col-12">
+          <div class="card mt-4 border-0" style="border-radius: 30px;">
+            <div class="row">
+      <div class="col-md-4 p-4 col-sm-12 col-12">
+        <img height="100%" width="100%" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400" src="./lastpage_files/169199269229047956.jpeg" class="aos-init aos-animate">
+      </div>
+      <div class="col-md-8 col-sm-12 col-12">
+        <h4 class="mt-2 pt-4 pb-2" style="font-size: 14px;">विश्वविक्रम प्रमाणपत्र प्राप्त </h4>
+        <p></p><p>श्री संत नागेबाबा मल्टीस्टेटला विश्वविक्रम प्रमाणपत्र प्राप्त&nbsp;</p>
+<p></p>
+        <p>
+          <a class="btn btn-primary btn-sm" href="https://www.nagebabamultistate.in/website/awards_details/7">View More</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+              
+        <div class="col-md-6 col-sm-12 col-12">
+          <div class="card mt-4 border-0" style="border-radius: 30px;">
+            <div class="row">
+      <div class="col-md-4 p-4 col-sm-12 col-12">
+        <img height="100%" width="100%" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400" src="./lastpage_files/169199287710906369.jpeg" class="aos-init aos-animate">
+      </div>
+      <div class="col-md-8 col-sm-12 col-12">
+        <h4 class="mt-2 pt-4 pb-2" style="font-size: 14px;">सर्वोत्कृष्ट आर्थिक संस्था पुरस्कार </h4>
+        <p></p><p>-</p>
+<p></p>
+        <p>
+          <a class="btn btn-primary btn-sm" href="https://www.nagebabamultistate.in/website/awards_details/6">View More</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+              
+        <div class="col-md-6 col-sm-12 col-12">
+          <div class="card mt-4 border-0" style="border-radius: 30px;">
+            <div class="row">
+      <div class="col-md-4 p-4 col-sm-12 col-12">
+        <img height="100%" width="100%" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400" src="./lastpage_files/164130040725085787.jpg" class="aos-init aos-animate">
+      </div>
+      <div class="col-md-8 col-sm-12 col-12">
+        <h4 class="mt-2 pt-4 pb-2" style="font-size: 14px;">सह्याद्री कोंदण पुरस्कार</h4>
+        <p></p><p>दैनिक नगर सह्याद्रीच्या वतीने व खासदार डॉ.सुजयजी विखे पाटील यांच्या शुभहस्ते पुरस्कार</p>
+<p></p>
+        <p>
+          <a class="btn btn-primary btn-sm" href="https://www.nagebabamultistate.in/website/awards_details/5">View More</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+                  </div>
+      </div>
+    </div>
+    
+      <div class="section1 bg-white">
+      <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <!-- <span class="section-title-border border-center"></span> -->
+        <h4 class="section-title mb-4 pb-0" style="font-size: 34px;">ब्लॉग </h4>      
+      </div>
+                          <div class="col-lg-4 col-md-6 col-sm-12" style="margin-top: 20px;" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <div class="news__single">
+                            <div class="news__image">
+                                <img src="./lastpage_files/164139244023089620.jpg" height="220" alt="">
+                                <a href="https://www.nagebabamultistate.in/Website/blogs_view/3"><i class="fa fa-plus"></i></a>
+                            </div>
+                            <div class="news__content">
+                           <!--      <div class="news__meta">
+                                    <a href="">Admin</a>
+                                    <span class="news__meta-sep">_</span>
+                                    <a href="">Press Release</a>
+                                </div> -->
+                                <h5 class="news__title">
+                                  <a href="https://www.nagebabamultistate.in/Website/blogs_view/3">राज्यस्तरीय पुरस्कार</a></h5>
+                                <div class="news__bottom">
+                                    <a href="https://www.nagebabamultistate.in/Website/blogs_view/3" class="news__link">पहा </a>
+                                  
+                                    <a href="https://www.nagebabamultistate.in/Website/blogs_view/3" class="news__date">05.Jan.2022</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                         <div class="col-lg-4 col-md-6 col-sm-12" style="margin-top: 20px;" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <div class="news__single">
+                            <div class="news__image">
+                                <img src="./lastpage_files/164094663862664680.jpg" height="220" alt="">
+                                <a href="https://www.nagebabamultistate.in/Website/blogs_view/2"><i class="fa fa-plus"></i></a>
+                            </div>
+                            <div class="news__content">
+                           <!--      <div class="news__meta">
+                                    <a href="">Admin</a>
+                                    <span class="news__meta-sep">_</span>
+                                    <a href="">Press Release</a>
+                                </div> -->
+                                <h5 class="news__title">
+                                  <a href="https://www.nagebabamultistate.in/Website/blogs_view/2">० पासून ते २००० पेक्षा जास्त करोडचा प्रेरणादायी प्रवास</a></h5>
+                                <div class="news__bottom">
+                                    <a href="https://www.nagebabamultistate.in/Website/blogs_view/2" class="news__link">पहा </a>
+                                  
+                                    <a href="https://www.nagebabamultistate.in/Website/blogs_view/2" class="news__date">03.Dec.2021</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                         <div class="col-lg-4 col-md-6 col-sm-12" style="margin-top: 20px;" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <div class="news__single">
+                            <div class="news__image">
+                                <img src="./lastpage_files/164094362499641949.jpg" height="220" alt="">
+                                <a href="https://www.nagebabamultistate.in/Website/blogs_view/1"><i class="fa fa-plus"></i></a>
+                            </div>
+                            <div class="news__content">
+                           <!--      <div class="news__meta">
+                                    <a href="">Admin</a>
+                                    <span class="news__meta-sep">_</span>
+                                    <a href="">Press Release</a>
+                                </div> -->
+                                <h5 class="news__title">
+                                  <a href="https://www.nagebabamultistate.in/Website/blogs_view/1">झी २४ तास पुरस्कार सोहळा</a></h5>
+                                <div class="news__bottom">
+                                    <a href="https://www.nagebabamultistate.in/Website/blogs_view/1" class="news__link">पहा </a>
+                                  
+                                    <a href="https://www.nagebabamultistate.in/Website/blogs_view/1" class="news__date">03.Dec.2021</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                       </div>
+                </div>
+              </div>
+
+
+
+ <!--<section class="testimonial text-center">-->
+ <!--       <div class="container">-->
+ <!--           <div class="heading white-heading">-->
+ <!--               Testimonial-->
+ <!--           </div>-->
+ <!--           <div id="testimonial4" class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">-->
+ <!--               <div class="carousel-inner" role="listbox">-->
+ <!--                   <div class="carousel-item active">-->
+ <!--                       <div class="testimonial4_slide">-->
+ <!--                           <img src="164129326437792433.png" class="img-circle img-responsive" />-->
+ <!--                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>-->
+ <!--                           <h4>Client 1</h4>-->
+ <!--                       </div>-->
+ <!--                   </div>-->
+ <!--                   <div class="carousel-item">-->
+ <!--                       <div class="testimonial4_slide">-->
+ <!--                           <img src="https://i.ibb.co/8x9xK4H/team.jpg" class="img-circle img-responsive" /><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>-->
+ <!--                           <h4>Client 2</h4>-->
+ <!--                       </div>-->
+ <!--                   </div>-->
+ <!--               </div>-->
+ <!--               <a class="carousel-control-prev" href="#testimonial4" data-slide="prev">-->
+ <!--                   <span class="carousel-control-prev-icon"></span>-->
+ <!--               </a>-->
+ <!--               <a class="carousel-control-next" href="#testimonial4" data-slide="next">-->
+ <!--                   <span class="carousel-control-next-icon"></span>-->
+ <!--               </a>-->
+ <!--           </div>-->
+ <!--       </div>-->
+ <!--   </section>-->
+  
+
+
+	
+    <title>Sant Nagebaba Multistate</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap-grid.css">
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap-grid.min.css">
+
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap-reboot.css">
+<link rel="stylesheet" type="text/css" href="./lastpage_files/bootstrap-reboot.min.css">
+<link rel="stylesheet" href="./lastpage_files/bootstrap.min(1).css">
+<script src="./lastpage_files/jquery.min.js.download"></script>
+
+<script src="./lastpage_files/bootstrap.min.js.download"></script>
+<link rel="stylesheet" href="./lastpage_files/slick.css">
+<link rel="stylesheet" href="./lastpage_files/font-awesome.min.css">
+<link rel="stylesheet" href="./lastpage_files/animate.css">
+<link rel="stylesheet" href="./lastpage_files/aos.css">
+<link rel="stylesheet" href="./lastpage_files/venobox.css">
+<script src="./lastpage_files/Chart.bundle.js.download"></script>
+<link href="./lastpage_files/aos(1).css" rel="stylesheet">
+
+<!-- Main Stylesheet -->
+<link href="./lastpage_files/style.css" rel="stylesheet">
+
+<!--Favicon-->
+<link rel="shortcut icon" href="./lastpage_files/logo.png" type="image/x-icon">
+<link rel="icon" href="./lastpage_files/logo.png" type="image/x-icon">
+<link rel="stylesheet" href="./lastpage_files/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<link rel="stylesheet" href="./lastpage_files/sweetalert2.css">
+<link href="./lastpage_files/css" rel="stylesheet">
+    <link rel="stylesheet" href="./lastpage_files/baguetteBox.min.css">
+    
+<script src="./lastpage_files/sweetalert2.all.min.js.download"></script>
+
+<style type="text/css">
+  .service{
+
+    transition: 1.2s;
+  }
+  .service:hover
+    {
+      background-color:black;
+      transform: scale(1.1);
+    }
+    @import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body {
+    background: #f9f9f9;
+    font-size: 16px;
+    font-family:'Trebuchet MS', sans-serif
+}
+
+
+
+.title {
+    color: #1a1a1a;
+    text-align: center;
+    margin-bottom: 10px
+}
+
+.content {
+    position: relative;
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+    overflow: hidden
+}
+
+.content .content-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s
+}
+
+.content:hover .content-overlay {
+    opacity: 1
+}
+
+.content-image {
+    width: 100%
+}
+
+img {
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 5px
+}
+
+.content-details {
+    position: absolute;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s
+}
+
+.content:hover .content-details {
+    top: 50%;
+    left: 50%;
+    opacity: 1
+}
+
+.content-details h3 {
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase
+}
+
+.content-details p {
+    color: #fff;
+    font-size: 0.8em
+}
+
+
+/**/
+.about_text p , .about_text strong{
+    color:white !important;
+    font-weight:bold !important;
+    text-align:justify !important;
+}
+.text {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+
+.our_work{
+   overflow: hidden;
+   text-overflow:ellipsis;
+   display:-webkit-box;
+   -webkit-line-clamp:13; /* number of lines to show */
+   -webkit-box-orient:vertical;
+}
+.our_work:hover{
+    background-color:#F0E68C;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+  scroll-behavior: smooth;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+html{
+    scroll-behavior: smooth;
+}
+ /* for desktop */
+      .whatsapp_float {
+          position: fixed;
+          width: 60px;
+          height: 60px;
+          bottom: 40px;
+          right: 40px;
+          background-color: #25d366;
+          color: #FFF;
+          border-radius: 50px;
+          text-align: center;
+          font-size: 30px;
+          box-shadow: 2px 2px 3px #999;
+          z-index: 100;
+      }
+
+      .whatsapp-icon {
+          margin-top: 16px;
+      }
+
+      /* for mobile */
+      @media screen and (max-width: 767px) {
+          .whatsapp-icon {
+              margin-top: 10px;
+          }
+
+          .whatsapp_float {
+              width: 40px;
+              height: 40px;
+              bottom: 20px;
+              right: 10px;
+              font-size: 22px;
+          }
+      }
+</style>
+
+  <!-- <a
+        href="https://wa.me/9552554010"
+        class="whatsapp_float"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fa fa-whatsapp" style="font-size:24px"></i>
+      </a> --><!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Raleway:500&display=swap" rel="stylesheet" />
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet" />
+
+
+<style type="text/css">
+  .imgProfile
+  {
+    animation: chatanimation 1s linear ;
+    animation-iteration-count: 1;
+
+    background-color: white;
+    border-radius: 50% !important;
+  }
+  @keyframes chatanimation{
+    0%
+    {
+      background-color: #12687f !important;
+      box-shadow: none;
+      border-radius: 50% !important;
+      padding: 200px;
+      transform: translate(50%,50%);
+    }
+    90%
+    {
+      background-color: #12687f !important;
+      transform: translate(0%,0%);
+    }
+    100%
+    {
+      border-radius: 50% !important;
+      padding: 10px;
+    }
+  }
+</style>
+<link rel="stylesheet" type="text/css" href="https://www.nagebabamultistate.in/static/css/style.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<body>
+  <div class="container" style="z-index: 999999999 !important;position: relative;">
+   
+    <div class="widget">
+      <div class="chat_header">
+        <span class="chat_header_title">SIL Chatbot </span>
+        
+        <span class="dropdown-trigger" style="color: white;">
+          <a href="#" id="close"  style="color: white;"><i class="fa fa-close"  style="color: white;"></i></a>
+        </span>
+        
+      </div>
+      <div class="chats" id="chats">
+        <div class="clearfix">
+        </div>
+      </div>
+      <div class="keypad mb-2">
+        <div class="">
+          <div class="d-flex flex-row">
+            <div class="">
+              <div id="voiceloader" style="z-index='200000'">
+                <img src="static\img\loading-buffering.gif" style="height:40px;width:40px">
+              </div>
+            </div>
+            <div class="col-9"><textarea
+              id="userInput"
+              placeholder="Type a message..."
+              class="usrInput" onchange="ChangeUserInput()"
+              ></textarea></div>
+              <style>
+                input[type="file"] {
+                  display: none;
+                }
+                .custom-file-upload {
+                  padding: 6px 12px;
+                  cursor: pointer;
+                }
+                
+              </style>
+              <div class=""> <div class="form-group" >
+                <label for="file_upload"   id="file_upload2" >
+                  <i style='color:blue;font-size:200%;' for="file_upload" id="file_upload1" class="fa fa-paperclip" aria-hidden="true" >&nbsp;&nbsp;</i>
+                </label>
+                <input type="file" id="file_upload" name="file_upload"  onchange="imageUploaded()" multiple>
+                
+                <i>&nbsp;&nbsp;&nbsp;&nbsp;</i>
+                <i id="sendButton" class="fa fa-paper-plane" onclick="sendfun()" aria-hidden="true"></i>
+              </div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="profile_div" id="profile_div">
+        <img class="imgProfile" src="https://www.nagebabamultistate.in/static/img/botAvatar.png" />
+      </div>
+    </div>
+    
+    <script src="https://www.nagebabamultistate.in/static/js/lib/uuid.min.js"></script>
+    <script type="text/javascript" src="https://www.nagebabamultistate.in/static/js/script.js"></script>
+    <script type="text/javascript" src="https://www.nagebabamultistate.in/static/js/lib/chart.min.js"></script>
+    <script type="text/javascript" src="https://www.nagebabamultistate.in/static/js/lib/showdown.min.js"></script>
+    <script type="text/javascript" src="https://www.nagebabamultistate.in/static/js/components/chat.js"></script>
+    <script type="text/javascript" src="https://www.nagebabamultistate.in/static/js/components/voicetotext.js"></script>
+    <script>
+      $(document).ready(function(){
+
+        $("#voiceloader").hide();
+        $('#check_speaker').click(function(){
+          
+
+          var className=$('#check_speaker').attr('class');
+          
+          $('#check_speaker').toggleClass("fa-user")
+          $('#check_speaker').toggleClass("fa-volume-off")
+          
+          
+        });
+      })
+    </script>
+  </body>
+  <script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'sg2plzcpnl476823'},{'dcenter':'sg2'},{'cp_id':'8198226'},{'cp_cache':''},{'cp_cl':'6'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>
+
+ --><footer>
+  <div class="section bg-secondary pb-5 pt-5">
+    <div class="container">
+      <div class="row justify-content-between">
+        <div class="col-lg-4  mb-5 mb-lg-0 text-center">
+          <a class="mb-4 d-inline-block" href="https://www.nagebabamultistate.in/#"><img class="img-fluid" src="./lastpage_files/logo.png" alt="Nagebaba MULTISTATE Logo" style="height:100px;"></a>
+          <p class="text-light m-0 font-weight-bold h5">श्री संत नागेबाबा मल्टीस्टेट को. ऑप. क्रेडीट सोसायटी लि. अहमदनगर</p>
+          <p class="text-white mb-5 mt-0"></p><p>संत नागेबाबा मल्टीस्टेट आपल्या ग्राहकांना विविध वैशिष्ट्यांसह आणि फायद्यांसह बचत खात्यांच्या विस्तृत श्रेणीतून निवडण्याचा पर्याय प्रदान करते.&nbsp;विकसनशील ग्रामीण भागांसाठी आर्थिक आणि तांत्रिक मदतीचा एक महत्त्वाचा स्रोत आहे. संसाधने प्रदान करून लोकांना स्वतःला आणि त्यांच्या पर्यावरणास मदत करणे हे आमचे ध्येय आहे</p>
+<p></p>
+              <div class="col-md-12 col-sm-12 col-12 text-center pt-2">
+            <ul class="list-inline">
+            <li class="list-inline-item">              
+              <a target="blank" class="text-white d-inline-block" href="https://www.facebook.com/shrisantnagebabamultistate">  
+                <i onmouseover="this.style.color=&#39;yellowgreen&#39;" onmouseout="this.style.color=&#39;white&#39;" class="fab fa-facebook  mr-2 ml-0 d-inline-block"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="blank" class="text-white d-inline-block" href="https://www.instagram.com/nagebaba_multistate/">  
+                <i onmouseover="this.style.color=&#39;yellowgreen&#39;" onmouseout="this.style.color=&#39;white&#39;" class="fab fa-instagram  mr-2 ml-0 d-inline-block"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+               <a target="blank" class="text-white d-inline-block" href="https://twitter.com/nmultistate"> 
+                <i onmouseover="this.style.color=&#39;yellowgreen&#39;" onmouseout="this.style.color=&#39;white&#39;" class="fab fa-twitter  mr-2 ml-0 d-inline-block"></i>
+               </a>
+            </li>
+            <li class="list-inline-item">
+               <a target="blank" class="text-white d-inline-block" href="https://api.whatsapp.com/send?phone=9552734000"> 
+                <i onmouseover="this.style.color=&#39;yellowgreen&#39;" onmouseout="this.style.color=&#39;white&#39;" class="fab fa-whatsapp  mr-2 ml-0 d-inline-block"></i>
+               </a>
+            </li>
+            <li class="list-inline-item">
+               <a target="blank" class="text-white d-inline-block" href="https://www.youtube.com/results?search_query=nagebaba+multistate"> 
+                <i onmouseover="this.style.color=&#39;yellowgreen&#39;" onmouseout="this.style.color=&#39;white&#39;" class="fab fa-youtube  mr-2 ml-0 d-inline-block"></i>
+               </a>
+            </li>
+            <li class="list-inline-item">
+               <a target="blank" class="text-white d-inline-block" href="https://www.nagebabamultistate.in/#"> 
+                <i onmouseover="this.style.color=&#39;yellowgreen&#39;" onmouseout="this.style.color=&#39;white&#39;" class="fab fa-google  mr-2 ml-0 d-inline-block"></i>
+               </a>
+            </li>
+          </ul>
+           <h4 class="font-weight-bold text-uppercase text-center mt-4 text-white text-center" style="font-family:monospace">IFSC Code:YESB0CMSNOC</h4>
+
+        </div>
+        </div>
+        <div class="col-lg-8">
+          <div class="row">
+            <div class="col-md-3 mb-1">
+              <h5 class="text-white mb-4">जाणून घ्या</h5>
+              <ul class="list-styled">
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/About">संस्थेचा  इतिहास</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/About">संस्थेविषही </a></li>
+                   <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/awards_details_page">अवार्ड्स  </a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Website/contact_us">संपर्क </a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Website/services">सेवा</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Website/gallery">गॅलरी</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Website/blogs">ब्लॉग</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Website/our_works">समाजकार्य</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Website/Career">करिअर</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Calendar">कॅलेंडर</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Website/awards_details_page">पुरस्कार तपशील</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Website/bhakt_niwas">भक्त निवास</a></li>
+              </ul>
+            </div>
+            <div class="col-md-4 mb-1">
+              <h5 class="text-white mb-4">कर्ज आणि ठेव</h5>
+              <ul class="list-styled">
+                                 <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/loan_details/1">सोनेतारण कर्ज</a></li>
+
+                                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/loan_details/3">तारण कर्ज</a></li>
+
+                                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/loan_details/4">वैयक्तिक कर्ज</a></li>
+
+                                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/loan_details/6">व्यावसायिक कर्ज</a></li>
+
+                                                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/deposite_details/1">फिक्स डिपॉझिट</a></li>
+                              <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/deposite_details/2">आवर्ती ठेव (रिकरिंग डिपॉझिट)</a></li>
+                              <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/deposite_details/3">लॉकर डिपॉझिट</a></li>
+                              <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/Deposite">आवर्ती ठेव</a></li>
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/terms_condition">Term and Cond</a></li>
+               
+                <li class="mb-2 text-light"><a class="text-light d-block" href="https://www.nagebabamultistate.in/website/privacy_policy">Privacy Policy</a></li>
+              </ul>
+            </div>
+            <div class="col-md-5 mb-1">
+              <h5 class="text-white mb-4">अधिक माहिती</h5>
+                            <ul class="list-unstyled d-inline-block">
+                <span>
+                  <li class="text-light mb-3">
+                    <i class="fa fa-mobile text-white mr-3" style="font-size: 20px;"></i>
+                    9552554010,  9552554057 
+                  </li>
+                </span>
+                <span>
+                  <li class="text-light mb-3">
+                    <i class="fa fa-envelope text-white"></i>&nbsp;&nbsp; info@nagebabamultistate.com                  </li>
+                </span>
+                <span>
+                  <li class="text-light mb-2 d-flex"><i class="fa fa-home text-white"></i>&nbsp;&nbsp;&nbsp;Nagebaba Multistate, Mauli Sankul Near Zopadi Canteen Ahmednagar
+                  </li>
+                </span>
+              </ul><br><br>
+            
+            <iframe src="./lastpage_files/page.html" width="250" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+             
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- copyright -->
+  <div class="bg-secondary-darken text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center mb-3 mb-md-0">
+        <small class="mb-0 text-white text-uppercase">COPYRIGHT © 2023 संत नागेबाबा मल्टीस्टेट. ALL RIGHTS RESERVED <span class="text-danger">♥</span> DESIGNED BY <a href="http://www.a2zithub.org/" target="_blank"><span class="text-warning">A2Z IT HUB PVT.LTD</span></a></small>
+      </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- /footer -->
+<style type="text/css">
+  .className {
+    max-width: 100%;
+    max-height: 80%;
+    /*border:10px outset #12687f;*/
+    bottom:0;
+    left: 0;
+    margin: auto;
+    overflow: auto;
+    /*position: fixed;*/
+    right:0;
+    top: 0;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+.modalbutton{
+  height:50px;
+  width:50px;
+  border-radius:50%;
+  position:absolute;
+  right:-10px;
+  top:-10px;
+  z-index:9999;
+}
+</style>
+ <!-- The Modal -->
+<div class="modal fade" id="myModal" aria-hidden="true" style="display: none;">
+<div class="modal-dialog modal-dialog-centered modal-lg">
+  <div class="modal-content">
+  <div class="modal-body">
+    <div style="width: 100%;position: relative;">
+      <button type="button" onclick="closmode()" class="close modalbutton"><b>×</b></button>
+      <img class="w-100 h-100 className" src="./lastpage_files/new.jpg">
+    </div>
+  </div> 
+ </div>
+ </div>
+</div>
+
+  <!-- customer support modal  -->
+  <div class="modal fade" id="customerModal" style="z-index: 99999;">
+    <div class="modal-dialog modal-xl">
+      <div class="modal-content">
+        <!-- Modal Header -->
+        <div class="modal-header bg-primary">
+          <h4 class="modal-title text-white font-weight-bold">कस्टमर सपोर्ट</h4>
+          <button type="button" class="close text-white" data-dismiss="modal">×</button>
+        </div>
+        
+
+           <div class="modal-body hidden-mobile">
+            <div class="d-flex">
+            <table>
+              <tbody><tr>
+                <th>
+                   <span><button class="btn btn-primary btn-sm">HR</button></span>
+                    <span><button class="btn btn-primary btn-sm">Account</button></span>
+                    <span><button class="btn btn-primary btn-sm">Marketing</button></span>
+                    <span><button class="btn btn-primary btn-sm">Tech Support</button></span>
+                </th>
+              </tr>
+              <tr>
+                   <th colspan="2">
+                       <img class="w-100" src="./lastpage_files/sup5.jpg">
+                  </th>
+              </tr>
+               <tr>
+            <th colspan="2">
+                <a class="text-primary d-inline-block px-lg-2 pt-1" href="mailto:info@nagebabamultistate.com"><i class="fa fa-envelope text-info mr-2 ml-0 d-inline-block"></i>info@nagebabamultistate.com</a>
+                <a class="text-primary d-inline-block px-lg-2 pt-1" href="callto:+919552554010"><span><i class="fa fa-phone text-info mr-2 ml-0 d-inline-block"></i>+91 95525 54010,4057</span></a>
+            </th>
+          </tr>
+          </tbody></table>
+           <form action="https://www.nagebabamultistate.in/Website/customer_support_form" method="POST">
+           <table class="ml-5">
+          <tbody><tr>
+            <th colspan="2" style="padding-bottom: 15px;">
+             <input type="hidden" name="cust_id" id="cust_id" class="form-control" required="">
+                <label class="font-weight-bold text-dark text-uppercase" style="font-size:14px;">Support On(सपोर्ट)</label><span class="text-danger"> *</span>
+                <select name="support_type" class="form-control form-control-sm" required="">
+                  <option value="">Choose Support Type</option>
+                  <option value="hr">HR</option>
+                  <option value="account">Account</option>
+                  <option value="marketing">Marketing</option>
+                  <option value="technical">Technical</option>
+                  <option value="other">Other</option>
+                </select>
+            </th>
+          </tr>
+          <tr>
+            <th style="padding-bottom: 15px; margin-right: 10px;">
+                <label class="font-weight-bold text-dark text-uppercase" style="font-size:14px;">Name(नाव)</label><span class="text-danger"> *</span>
+                <input type="text" name="customer_name" class="form-control form-control-sm" placeholder="Enter Your Name" required="" pattern="^[A-Za-z -]+$"> 
+            </th>
+         
+            <th style="padding-bottom: 15px;">
+                <label class="font-weight-bold text-dark text-uppercase" style="font-size:14px;">Email(ई-मेल)</label><span class="text-danger"> *</span>
+                <input type="email" name="email" class="form-control form-control-sm" placeholder="@gmail.com" required=""> 
+            </th>
+          </tr>
+          <tr>
+            <th style="padding-bottom: 15px;">
+                 <label class="font-weight-bold text-dark text-uppercase" style="font-size:14px;">Contact No(मोबाईल)</label><span class="text-danger"> *</span>
+                 <input type="Number" name="mobile" class="form-control form-control-sm" placeholder="+91" maxlength="10" required=""> 
+            </th>
+         
+            <th style="padding-bottom: 15px;">
+                 <label class="font-weight-bold text-dark text-uppercase" style="font-size:14px;">Branch Name(ब्रँच नाव)</label>
+                 <input type="text" name="branch_name" class="form-control form-control-sm" placeholder="Enter Branch Name" required="">  
+            </th>
+          </tr>
+          <tr>
+            <th colspan="2">
+                <label class="font-weight-bold text-dark text-uppercase" style="font-size:14px;">Enter Your Query(मेसेज)</label><span class="text-danger"> *</span>
+                <textarea class="form-control form-control-sm" name="message" cols="30" rows="3" required=""></textarea>
+            </th>
+          </tr>
+          <tr class="text-center">
+            <th colspan="2" style="padding:20px;">    
+              <button class="btn btn-primary btn-sm" onclick="customer_request(this)" data-id="cust_id">SEND REPORT</button>
+            </th>
+          </tr>
+        
+          </tbody></table>
+            </form>
+           </div>
+         </div>
+        <table class="hidden-desktop">
+          <tbody><tr class="text-center">
+            <th>
+                <span><button class="btn btn-primary btn-sm">HR</button></span>
+                <span><button class="btn btn-primary btn-sm">Account</button></span>
+            </th>
+            <th>
+                <span><button class="btn btn-primary btn-sm">Marketing</button></span>
+                <span><button class="btn btn-primary btn-sm">Tech Support</button></span>
+            </th>
+          </tr>
+          <tr>
+            <th colspan="2">
+               <img class="w-100" src="./lastpage_files/sup5.jpg">
+            </th>
+          </tr>
+          <tr>
+            <th colspan="2" class="text-center">
+                <a class="text-primary d-inline-block px-lg-2 pt-1" href="mailto:info@nagebabamultistate.com"><i class="fa fa-envelope text-info mr-2 ml-0 d-inline-block"></i>info@nagebabamultistate.com</a>
+                <a class="text-primary d-inline-block px-lg-2 pt-1" href="callto:+919552554010"><span><i class="fa fa-phone text-info mr-2 ml-0 d-inline-block"></i>+91 95525 54010,4057</span></a>
+            </th>
+          </tr>
+           <form action="https://www.nagebabamultistate.in/Website/customer_support_form" method="POST"></form>
+          
+          <tr>
+            <th colspan="2" style="padding: 20px;">
+             <input type="hidden" name="cust_id" id="cust_id" class="form-control" required="">
+                <label class="font-weight-bold text-dark text-uppercase">Support On(सपोर्ट)</label><span class="text-danger"> *</span>
+                <select name="support_type" class="form-control form-control-sm" required="">
+                  <option value="">Choose Support Type</option>
+                  <option value="hr">HR</option>
+                  <option value="account">Account</option>
+                  <option value="marketing">Marketing</option>
+                  <option value="technical">Technical</option>
+                  <option value="other">Other</option>
+                </select>
+            </th>
+          </tr>
+          <tr>
+            <th style="padding-left: 20px;padding-right: 20px; padding-bottom: 20px;" colspan="2">
+                <label class="font-weight-bold text-dark text-uppercase">Name(नाव)</label><span class="text-danger"> *</span>
+                <input type="text" name="customer_name" class="form-control form-control-sm" placeholder="Enter Your Name" required="" pattern="^[A-Za-z -]+$"> 
+            </th>
+          </tr>
+          <tr>
+            <th style="padding-left: 20px;padding-right: 20px; padding-bottom: 20px;" colspan="2">
+                <label class="font-weight-bold text-dark text-uppercase">Email(ई-मेल)</label><span class="text-danger"> *</span>
+                <input type="email" name="email" class="form-control form-control-sm" placeholder="@gmail.com" required=""> 
+            </th>
+          </tr>
+          <tr>
+            <th style="padding-left: 20px;padding-right: 20px; padding-bottom: 20px;" colspan="2">
+                 <label class="font-weight-bold text-dark text-uppercase">Contact No(मोबाईल)</label><span class="text-danger"> *</span>
+                 <input type="Number" name="mobile" class="form-control form-control-sm" placeholder="+91" maxlength="10" required=""> 
+            </th>
+          </tr>
+           <tr>
+            <th style="padding-left: 20px;padding-right: 20px;  padding-bottom: 20px;" colspan="2">
+                 <label class="font-weight-bold text-dark text-uppercase">Branch Name(ब्रँच नाव)</label>
+                 <input type="text" name="branch_name" class="form-control form-control-sm" placeholder="Enter Branch Name" required="">  
+            </th>
+          </tr>
+          <tr>
+            <th style="padding-left: 20px;padding-right: 20px; padding-bottom: 20px;" colspan="2">
+                <label class="font-weight-bold text-dark text-uppercase">Enter Your Query(मेसेज)</label><span class="text-danger"> *</span>
+                <textarea class="form-control form-control-sm" name="message" cols="30" rows="3" required=""></textarea>
+            </th>
+          </tr>
+          <tr class="text-center">
+            <th colspan="2" style="padding:20px;">    
+              <button class="btn btn-primary btn-sm" onclick="customer_request(this)" data-id="cust_id">SEND REPORT</button>
+            </th>
+          </tr>
+          
+        </tbody></table>
+      </div>
+    </div>
+  </div>
+
+  <!-- The Modal -->
+<div class="modal fade" id="accountModal" style="z-index: 99999;">
+  <div class="modal-dialog modal-dialog-centered">
+   <div class="modal-content">
+    <form action="https://www.nagebabamultistate.in/Website/account_open_form" method="POST">
+    <div class="modal-header bg-primary">
+    <h4 class="modal-title text-center text-white font-weight-bold">Open New Account(नवीन अकाउंट उघडा)</h4>
+    <button type="button" class="close text-white" data-dismiss="modal">×</button>
+    </div> 
+        <style type="text/css">
+          table,th,tr{
+            border: 0px;
+          }
+        </style>
+        <div class="modal-body">
+          <table class="table" border="0">
+            <tbody><tr>
+              <th>
+                    <input type="hidden" name="account_id " id="account_id ">
+                  <label class="font-weight-bold text-dark text-uppercase" style="font-size:12px;">Name(नाव)</label><span class="text-danger"> *</span>
+                  <input type="text" name="customer_name" class="form-control form-control-sm" placeholder="Enter Your Name" pattern="^[A-Za-z -]+$" required="">
+
+              </th>
+              <th>
+                  <label class="font-weight-bold text-dark text-uppercase" style="font-size:12px;">Email(ई-मेल)</label>
+                  <input type="email" name="email" class="form-control form-control-sm" placeholder="@gmail.com" required="">
+              </th>
+            </tr>
+            <tr>
+              <th>
+                   <label class="font-weight-bold text-dark text-uppercase" style="font-size:12px;">Phone Number(मोबाईल)</label><span class="text-danger"> *</span>
+                  <input type="text" name="mobile_no" class="form-control form-control-sm" placeholder="+91" required="" pattern="[0-9]{10}">
+              </th>
+              <th>
+                  <label class="font-weight-bold text-dark text-uppercase" style="font-size:12px;">Branch Name(ब्रँच नाव)</label>
+                  <input type="text" name="branch_name" class="form-control form-control-sm" placeholder="Enter Branch Name" required="">
+              </th>
+            </tr>
+            <tr>
+              <th colspan="2">
+                   <label class="font-weight-bold text-dark text-uppercase" style="font-size:12px;">Account Type(अकाउंट टाईप)</label><span class="text-danger"> *</span>
+                  <select class="form-control form-control-sm" name="account_type" required="">
+                    <option value="">Select Account Type</option>
+                    <option value="Current Account">Current Account</option>
+                    <option value="Saving Account">Saving Account</option>
+                  </select>
+              </th>
+            </tr>
+            <tr>
+              <th colspan="2" class="text-center">
+              <button class="btn btn-primary btn-sm text-center" onclick="open_account(this)" data-id="account_id ">SEND REQUEST</button>
+            </th>
+            </tr>
+          </tbody></table>
+        </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="fdmodal">
+  <div class="modal-dialog modal-dialog-centered">
+   <div class="modal-content">
+    <form action="https://www.nagebabamultistate.in/Website/fix_deposite_request" method="POST">
+        <!-- Modal Header -->
+    <div class="modal-header bg-primary">
+    <h4 class="modal-title text-center text-white font-weight-bold">FIXED DEPOSITS(FD)</h4>
+    <button type="button" class="close text-white" data-dismiss="modal">×</button>
+    </div>  
+      <table class="table "> 
+          <tbody><tr>
+            <th>
+                  <input type="hidden" name="fix_id" class="form-control">
+                  <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size:12px;">Name(नाव)</label><span class="text-danger"> *</span>
+                  <input type="text" name="customer_name" class="form-control form-control-sm" placeholder="Enter Your Name" pattern="^[A-Za-z -]+$" required="">
+            </th>
+            <th>
+                  <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size:12px;">Email(ई-मेल)</label>
+                  <input type="email" name="email" class="form-control form-control-sm" placeholder="@gmail.com">
+            </th>
+          </tr>
+          <tr>
+            <th>
+                 <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size:12px;">Phone Number(मोबाईल)</label><span class="text-danger"> *</span>
+                  <input type="text" name="mobile_no" class="form-control form-control-sm" placeholder="+91" required="" pattern="[0-9]{10}">
+            </th>
+            <th>     
+                 <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size:12px;">Branch Name(ब्रँच नाव)</label>
+                 <input type="text" name="branch_name" class="form-control form-control-sm" placeholder="Enter Branch Name">
+                </th>
+          </tr>
+        </tbody></table>
+        <div class="modal-footer">
+           <button class="btn btn-primary btn-sm" onclick="fix_deposite(this)" data-id="account_id ">पाठवा</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="rdmodal">
+  <div class="modal-dialog modal-dialog-centered">
+   <div class="modal-content">
+    <form action="https://www.nagebabamultistate.in/Website/recuring_deposit_request" method="POST">
+        <!-- Modal Header -->
+    <div class="modal-header bg-primary">
+    <h4 class="modal-title text-center text-white font-weight-bold">RECURRING DEPOSITS(RD)</h4>
+    <button type="button" class="close text-white" data-dismiss="modal">×</button>
+    </div>  
+        <table class="table">
+          <tbody><tr>
+            <th>
+                <input type="hidden" name="r_id" class="form-control">
+                  <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 14px;">Name(नाव)</label><span class="text-danger"> *</span>
+                  <input type="text" name="customer_name" class="form-control form-control-sm" placeholder="Enter Your Name" pattern="^[A-Za-z -]+$" required="">
+            </th>
+            <th>
+                 <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 14px;">Email(ई-मेल)</label>
+                  <input type="email" name="email" class="form-control form-control-sm" placeholder="@gmail.com" required="">
+            </th>
+          </tr>
+          <tr>
+            <th>
+                  <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 14px;">Phone Number(मोबाईल)</label><span class="text-danger"> *</span>
+                  <input type="Number" name="mobile_no" class="form-control form-control-sm" placeholder="+91" required="">
+            </th>
+            <th>
+                <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 14px;">Branch Name(ब्रँच नाव)</label>
+                  <input type="text" name="branch_name" class="form-control form-control-sm" placeholder="Enter Branch Name">
+            </th>
+          </tr>
+        </tbody></table>
+
+        <div class="modal-footer">
+          <button class="btn btn-primary btn-sm" onclick="recuring_deposite(this)" data-id="r_id ">पाठवा</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="loanmodal">
+  <div class="modal-dialog modal-dialog-centered">
+   <div class="modal-content">
+    <form action="https://www.nagebabamultistate.in/Website/loan_request" method="POST">
+        <!-- Modal Header -->
+    <div class="modal-header bg-primary">
+    <h4 class="modal-title text-center text-white font-weight-bold">Get A New Loan(नवीन लोण घ्या)</h4>
+    <button type="button" class="close text-white" data-dismiss="modal">×</button>
+    </div>  
+        <table class="table">
+          <tbody><tr>
+            <th>
+               <input type="hidden" name="loan_id" class="form-control">
+                  <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 12px;">Name(नाव)</label><span class="text-danger"> *</span>
+                  <input type="text" name="customer_name" class="form-control form-control-sm" placeholder="Enter Your Name" pattern="^[A-Za-z -]+$" required="">
+            </th>
+            <th>
+               <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 12px;">Email(ई-मेल)</label>
+                  <input type="email" name="email" class="form-control form-control-sm" placeholder="@gmail.com">
+            </th>
+          </tr>
+          <tr>
+            <th>
+                <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 12px;">Phone Number(मोबाईल)</label><span class="text-danger"> *</span>
+                  <input type="number" name="mobile_no" class="form-control form-control-sm" placeholder="+91" required="">
+                
+            </th>
+            <th>
+                <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 12px;">Branch Name(ब्रँच नाव)</label>
+                  <input type="text" name="branch_name" class="form-control form-control-sm" placeholder="Enter Branch Name" required="">
+            </th>
+            </tr><tr>
+            <th>
+               <label class="font-weight-bold text-dark text-uppercase d-inline" style="font-size: 12px;">Loan Type(लोण टाईप )</label>
+                  <span class="text-danger"> *</span>
+                  <select class="form-control form-control-sm" name="loan_type" required="">
+                    <option value="">Select</option>
+                                        <option value="सोनेतारण कर्ज">सोनेतारण कर्ज</option>
+                                    <option value="तारण कर्ज">तारण कर्ज</option>
+                                    <option value="वैयक्तिक कर्ज">वैयक्तिक कर्ज</option>
+                                    <option value="व्यावसायिक कर्ज">व्यावसायिक कर्ज</option>
+                                  </select>
+            </th>
+          </tr>
+        </tbody></table>
+        <div class="modal-footer">
+          <button class="btn btn-primary btn-sm" onclick="loan_request(this)" data-id="loan_id ">पाठवा</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+<script src="./lastpage_files/baguetteBox.min.js.download"></script>
+<script src="./lastpage_files/slick.min.js.download"></script>
+<script src="./lastpage_files/aos.js.download"></script>
+<script src="./lastpage_files/venobox.min.js.download"></script>
+<!-- <script src="https://www.nagebabamultistate.in/assets/plugins/modernizer/modernizr.min.js"></script> -->
+<script src="./lastpage_files/jquery.filterizr.min.js.download"></script>
+<script src="./lastpage_files/js"></script>
+<script src="./lastpage_files/gmap.js.download"></script>
+<script src="./lastpage_files/script.js.download"></script>
+<script src="./lastpage_files/aos.js(1).download"></script>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'sg2plzcpnl476823'},{'dcenter':'sg2'},{'cp_id':'8198226'},{'cp_cache':''},{'cp_cl':'6'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src="./lastpage_files/tccl.min.js.download"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+    AOS.init();
+</script><div role="dialog" id="baguetteBox-overlay"><div id="baguetteBox-slider"></div><button type="button" id="previous-button" aria-label="Previous" class="baguetteBox-button"><svg width="44" height="60"><polyline points="30 10 10 30 30 50" stroke="rgba(255,255,255,0.5)" stroke-width="4" stroke-linecap="butt" fill="none" stroke-linejoin="round"></polyline></svg></button><button type="button" id="next-button" aria-label="Next" class="baguetteBox-button"><svg width="44" height="60"><polyline points="14 10 34 30 14 50" stroke="rgba(255,255,255,0.5)" stroke-width="4" stroke-linecap="butt" fill="none" stroke-linejoin="round"></polyline></svg></button><button type="button" id="close-button" aria-label="Close" class="baguetteBox-button"><svg width="30" height="30"><g stroke="rgb(160,160,160)" stroke-width="4"><line x1="5" y1="5" x2="25" y2="25"></line><line x1="5" y1="25" x2="25" y2="5"></line></g></svg></button></div>
+
+
+<script type="text/javascript">
+  function open_job(val){
+  var id=$(val).attr("data-id")
+  $('#book_id').val(id);
+  $('#exampleModal').modal('show');
+}
+</script>
+<script type="text/javascript">
+  function viewImage(source, image_name) {                                                                                          
+      var path = "https://www.nagebabamultistate.in/uploads/" + source;
+      $('#showImage').attr("src", path);
+    };
+    function viewVideo(source, image_name) {                                                                                          
+      var path = "https://www.nagebabamultistate.in/uploads/" + source;
+      $('#showImage').attr("src", path);
+    };
+</script>
+
+<script type="text/javascript">
+  function customer_request(val){
+  var id=$(val).attr("data-id")
+  $('#cust_id').val(id);
+  $('#customerModal').modal('show');
+}
+// account open
+ function open_account(val){
+  var id=$(val).attr("data-id")
+  $('#account_id').val(id);
+  $('#accountModal').modal('show');
+}
+// fix deposite
+function fix_deposite(val){
+  var id=$(val).attr("data-id")
+  $('#fix_id ').val(id);
+  $('#fdmodal').modal('show');
+}
+// recuring deposite
+function recuring_deposite(val){
+  var id=$(val).attr("data-id")
+  $('#r_id ').val(id);
+  $('#rdmodal').modal('show');
+}
+// loan request
+function loan_request(val){
+  var id=$(val).attr("data-id")
+  $('#loan_id ').val(id);
+  $('#loanmodal').modal('show');
+}
+</script>
+<script type="text/javascript">
+ $(document).ready(function() {
+     if (sessionStorage.getItem('#myModal') !== 'true') {
+         $('#myModal').modal('show');
+         sessionStorage.setItem('#myModal','true');     
+     }
+ });
+ function closmode(){
+   $('#myModal').modal('hide');
+ }
+</script>
+<button onclick="topFunction()" class="btn btn-primary p-0 m-0 p-3" id="myBtn" title="Go to top" style="display: block;">
+    <i style="font-size: 24px;" class="fas fa-angle-double-up"></i></button>
+<script>
+// Get the button
+let mybutton = document.getElementById("myBtn");
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0.2;
+  document.documentElement.scrollTop = 0.2;
+}
+</script></body></html>

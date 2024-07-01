@@ -1,0 +1,17 @@
+.section{
+	background-color:#12687f;
+}
+.info{
+	background-image: url('https://www.nagebabamultistate.in/assets/images/back/media.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+    background-attachment: fixed;
+    /*position: absolute;*/
+    overflow-x: hidden;
+}
+.media{
+	height:300px;
+	width:100%;
+	float:left;
+	background-color:rgb(0,0,0,0.6);
+}
